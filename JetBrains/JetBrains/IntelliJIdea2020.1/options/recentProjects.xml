@@ -1,0 +1,91 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/GitProjects/Java/IMat">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1bmll0lti15SGfQAnYFIyqZzEK5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-201.7846.76" />
+              <option name="buildTimestamp" value="1590980541588" />
+              <frame x="-6" y="-5" width="1548" height="842" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1593363628984" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/RockPaperSissors">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dxPJOEVwusMZ2en2heDH9tpmQq">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-201.8538.31" />
+              <option name="buildTimestamp" value="1594107830150" />
+              <frame x="0" y="5" width="1536" height="859" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1595512796475" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitProjects/personalProjects/javaFileTransfer">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fnE4KjOpvKS6J7TiBoXpTCSeC5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-201.8538.31" />
+              <option name="buildTimestamp" value="1594107805505" />
+              <frame x="-2" y="8" width="1540" height="857" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1597337735271" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitProjects/GreatSpace">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fgZxRBP4y04iWO1OuJG2UVSkyW">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-201.8538.31" />
+              <option name="buildTimestamp" value="1594107829484" />
+              <frame x="-2" y="27" width="1540" height="838" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1598803855742" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitProjects/chrooms/JavaBackend">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1f5fYv0zufwZqS4HeS5tcLDTPJH">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-201.8538.31" />
+              <option name="buildTimestamp" value="1594107815421" />
+              <frame x="0" y="5" width="1540" height="838" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1598904045078" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitProjects/personalProjects/maven">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1gsX73WItHr6urcewluV2TjAWt5">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-201.8538.31" />
+              <option name="buildTimestamp" value="1594107815421" />
+              <frame x="-2" y="8" width="1540" height="857" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1598904104942" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/GitProjects/personalProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/GitProjects/personalProjects/maven" />
+        <option value="$USER_HOME$/GitProjects/chrooms/JavaBackend" />
+        <option value="$USER_HOME$/GitProjects/GreatSpace" />
+        <option value="$USER_HOME$/GitProjects/personalProjects/javaFileTransfer" />
+        <option value="$USER_HOME$/IdeaProjects/RockPaperSissors" />
+        <option value="$USER_HOME$/GitProjects/Java/IMat" />
+      </list>
+    </option>
+  </component>
+</application>

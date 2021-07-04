@@ -1,0 +1,64 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/scripts/i3WindowListener">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dKaugy4AFlwQ9VAjx8NQB5t6vn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.7846.77" />
+              <option name="buildTimestamp" value="1590988035217" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1592220921140" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/scripts">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dKXs2IsmLtKFVxumoovrJr4uLd">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.7846.77" />
+              <option name="buildTimestamp" value="1590988038528" />
+              <frame x="768" y="5" width="768" height="859" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1592232409344" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dJPc4AJ2ohypHJYwNODXFvunsn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.7846.77" />
+              <option name="buildTimestamp" value="1590988053709" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1593363459771" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/scripts/untitled">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1dxOsrjVxRO4AyuAtOeSvONmpZy">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-201.7846.77" />
+              <option name="buildTimestamp" value="1590988036400" />
+              <frame x="0" y="27" width="1536" height="836" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1595019262540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/scripts" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/scripts/untitled" />
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+        <option value="$USER_HOME$/scripts" />
+        <option value="$USER_HOME$/scripts/i3WindowListener" />
+      </list>
+    </option>
+  </component>
+</application>

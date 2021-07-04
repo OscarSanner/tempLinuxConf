@@ -1,0 +1,138 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="1" last="1592176401840" />
+      </entry>
+      <entry key="$SelectAll">
+        <ActionSummary times="1" last="1592231891711" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="21" last="1592841927818" />
+      </entry>
+      <entry key="About">
+        <ActionSummary times="1" last="1592140344098" />
+      </entry>
+      <entry key="ActivateFavoritesToolWindow">
+        <ActionSummary times="1" last="1592180936930" />
+      </entry>
+      <entry key="Back">
+        <ActionSummary times="1" last="1592179915411" />
+      </entry>
+      <entry key="Debug">
+        <ActionSummary times="2" last="1592182252982" />
+      </entry>
+      <entry key="DebugClass">
+        <ActionSummary times="1" last="1592182228040" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="422" last="1595022437948" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="50" last="1595022365802" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="7" last="1592842420130" />
+      </entry>
+      <entry key="EditorDelete">
+        <ActionSummary times="6" last="1592840190082" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="184" last="1595022358130" />
+      </entry>
+      <entry key="EditorDuplicate">
+        <ActionSummary times="1" last="1592839593911" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="48" last="1595022446709" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="156" last="1595019300906" />
+      </entry>
+      <entry key="EditorLeftWithSelection">
+        <ActionSummary times="8" last="1595022237021" />
+      </entry>
+      <entry key="EditorLookupDown">
+        <ActionSummary times="1" last="1595022326939" />
+      </entry>
+      <entry key="EditorNextWord">
+        <ActionSummary times="52" last="1595022360229" />
+      </entry>
+      <entry key="EditorNextWordWithSelection">
+        <ActionSummary times="68" last="1595022351665" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="5" last="1595022013005" />
+      </entry>
+      <entry key="EditorPreviousWord">
+        <ActionSummary times="24" last="1595022025166" />
+      </entry>
+      <entry key="EditorPreviousWordWithSelection">
+        <ActionSummary times="57" last="1595022356191" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="117" last="1595022374453" />
+      </entry>
+      <entry key="EditorRightWithSelection">
+        <ActionSummary times="37" last="1595022025702" />
+      </entry>
+      <entry key="EditorScrollDown">
+        <ActionSummary times="2" last="1595022327019" />
+      </entry>
+      <entry key="EditorScrollUp">
+        <ActionSummary times="1" last="1595022328176" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="13" last="1595019412844" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="67" last="1595022328748" />
+      </entry>
+      <entry key="EditorUpWithSelection">
+        <ActionSummary times="3" last="1595019322875" />
+      </entry>
+      <entry key="IntroduceVariable">
+        <ActionSummary times="1" last="1592231898592" />
+      </entry>
+      <entry key="NewDirectoryProject">
+        <ActionSummary times="2" last="1593363475255" />
+      </entry>
+      <entry key="NewElement">
+        <ActionSummary times="1" last="1592176413260" />
+      </entry>
+      <entry key="NewPythonFile">
+        <ActionSummary times="5" last="1593363534010" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="2" last="1592839531799" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="40" last="1595022403636" />
+      </entry>
+      <entry key="RunClass">
+        <ActionSummary times="8" last="1593363554221" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="2" last="1593363612369" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="1" last="1592175959531" />
+      </entry>
+      <entry key="ToggleLineBreakpoint">
+        <ActionSummary times="2" last="1592841940255" />
+      </entry>
+      <entry key="Tree-selectChild">
+        <ActionSummary times="2" last="1592180947401" />
+      </entry>
+      <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$MyGearActionGroup">
+        <ActionSummary times="2" last="1592842217785" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="5" last="1592232407037" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$6">
+        <ActionSummary times="1" last="1592140284348" />
+      </entry>
+    </data>
+  </component>
+</application>

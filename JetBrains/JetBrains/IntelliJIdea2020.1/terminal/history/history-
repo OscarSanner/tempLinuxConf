@@ -1,0 +1,500 @@
+cd yay
+ls
+makepkg
+sudo pacman -S git go
+makepkg
+yay -S optimus-manager
+ls
+tar -xvf yay.tar.gz 
+cd ..
+ls
+rm yay
+rm -d yay
+rmdir yay
+rm -r yay
+rm -rf yay
+ls
+tar -xvf yay.tar.gz 
+ls
+cd yay
+makepkg -si
+yay -S optimus-manager
+sudo systemctl enable optimus-manager.service
+sudo systemctl start optimus-manager.service
+reboot
+xrandr --output eDP-1 --scale '1.6x1.6'
+optimus-manager --switch nvidia
+xrandr --output eDP1 --scale '1.6x1.6'
+xrandr -help
+xrandr --listmonitors
+xrandr --output eDP-1-1 --scale '1.6x1.6'
+glxgears -info
+vblank_mode=0 glxgears -info
+__GL_SYNC_TO_VBLANK=0 glxgears
+optimus-manager --switch intel
+xrandr --output eDP-1-1 --scale '1.6x1.6'
+xrandr --output eDP-1 --scale '1.6x1.6'
+cd /etc/X11/xorg.conf.d/10-optimus-manager.conf 
+cd /etc/X11/xorg.conf.d/ 
+ls
+nano 10-optimus-manager.conf 
+sudo nano 10-optimus-manager.conf 
+reboot
+xrandr --output eDP-1-1 --scale '1.6x1.6'
+xrandr --output eDP-1 --scale '1.6x1.6'
+glxgears --info
+glxgears -info
+cd /etc/X11/xorg.conf.d/ 
+sudo nano 10-optimus-manager.conf 
+ls
+sudo nano 10-optimus-manager.conf 
+cd /etc
+ls
+cd optimus-manager/
+ls
+sudo nano xorg-intel.conf 
+cd /usr/share/
+sudo nano optimus-manager.conf 
+sudo pacman -S xf86-video-intel
+reboot
+optimus-manager --switch nvidia
+glxgears -info
+optimus-manager --switch intel
+cd /etc/optimus-manager/
+ls
+optimus-manager --switch nvidia
+sudo cp /usr/share/optimus-manager.conf optimus-manager.conf
+ls
+nano optimus-manager.conf 
+sudo nano optimus-manager.conf 
+sudo su
+pacman -R bbswitch
+sudo pacman -R bbswitch
+pacman -S nouveau
+sudo pacman -S nouveau
+sudo pacman -S xf86-video-nouveau
+cd /etc/optimus-manager/
+ls
+nano optimus-manager-temp.conf 
+sudo nano optimus-manager-temp.conf 
+optimus-manager --temp-config /etc/optimus-manager/optimus-manager-temp.conf 
+reboot
+reboot
+cd /etc/optimus-manager/
+ls
+sudo nano optimus-manager-temp.conf
+sudo nano optimus-manager.conf 
+reboot
+optimus-manager --switch nvidia
+xrandr --output eDP-1-1 --scale '1.6x1.6'
+optimus-manager --switch intel
+xrandr --output eDP-1-1 --scale '1.6x1.6'
+xrandr --output eDP-1 --scale '1.6x1.6'
+xrandr --output eDP1 --scale '1.6x1.6'
+sudo pacman -S tlp
+sudo systemctl enable tlp.service
+sudo systemctl start tlp.service
+reboot
+reboot
+optimus-manager --switch nvidia
+optimus-manager --switch nvidia
+optimus-manager --switch intel
+xrandr -h
+xrandr --help
+xrandr --listmonitors
+reboot
+sudo pacman -Syu 
+hwclock --show
+hwclock --show --verbose
+sudo hwclock --show --verbose
+sudo hwclock --show
+timedatectl status
+systemctl --type=service
+sudo pacman -S nm-applet
+sudo pacman -S nm-aplet
+sudo pacman -S nm-connection-editor
+sudo pacman -S network-manager-applet
+netctl list
+sudo pacman -S network-manager
+sudo pacman -S networkmanager
+netctl list
+netctl stop wlo1-COMHEM_9cedd8-5G
+netctl disable wlo1-COMHEM_9cedd8-5G
+sudo netctl disable wlo1-COMHEM_9cedd8-5G
+systemctl enable NetworkManager.service
+reboot
+nm-connections-editor
+reboot
+xbacklight -1
+xbacklight -5
+xbacklight -set 50 
+xbacklight -set 10
+xbacklight -set 0
+xbacklight -set50
+xbacklight -set40
+xbacklight -set 100
+xbacklight -dec 10
+xbacklight -dec 10
+xbacklight -dec 10
+xbacklight -inc 10
+xbacklight -inc 10
+xbacklight -inc 10
+xrandr --listmonitors
+xrandr --help
+xrandr --listactivemonitors
+xrandr -listmonitors
+pacmam -S arandr
+optimus-manager --switch nvidia
+xrandr --listmonitors
+sudo pacman -S arandr
+arandr
+arandr
+xrandr --output HDMI0 --auto --same-as edp-1-1
+xrandr --help
+xrandr --listmonitors
+arandr
+optimus-manager --switch intel
+optimus-manager --switch nvidia
+xrandr --listmonitors
+xrandr --output hdmi1 --right-of eDP-1 --scale '1.6x1.6'
+xrandr --output HDMI1 --right-of eDP-1 --scale '1.6x1.6'
+xrandr --output HDMI1 --right-of eDP-1-1 --scale '1.6x1.6'
+xrandr --output HDMI1 --right-of eDP1-1 --scale '1.6x1.6'
+xrandr --output HDMI1 --right-of eDP1 --scale '1.6x1.6'
+arandr
+arandr
+xrandr --output HDMI1 --scale '1x1'
+xrandr --output HDMI1 --scale '2x2'
+arandr
+xrandr --output HDMI1 --scale '2x2'
+arandr
+xrandr --output HDMI1 --scale '1.6x1.6'
+arandr
+arandr
+optimus-manager --switch intel
+ls
+mkdir GitProjects
+mkdir Java
+cd Java/
+sudo pacman -S jre
+sudo pacman -S jdk
+sudo pacman -S open-jdk
+sudo pacman -S open-jre
+sudo pacman -S java
+sudo pacman -S jdk-openjdk
+cd /usr/lib/jvm/java-13-openjdk/
+ls
+cd /
+sudo pacman -S java-openjfx
+yay -Syu
+yay -S intellij-idea-ultimate-edition
+yay -S javafx11-scenebuilder
+yay -S javafx11-scenebuilder
+pacman -S intellij
+sudo pacman -S intellij
+sudo pacman -S intellij-idea-community-edition
+ls
+cd GitProjects/
+cd Ja
+ls
+cd ..
+rmdir Java/
+cd GitProjects/
+ls
+mkdir Java
+cd Java/
+git clone https://github.com/OscarSanner/IMat.git
+ls
+cd IMat/
+ls
+whereis openjfx
+cd /
+whereis openjfx
+whereis openJFX
+whereis jre
+sudo pacman -S java-openjfx
+cd usr/lib/jvm/
+ls
+cd java-13-openjdk/
+ls
+cd lib
+ls
+sudo mv openjfx-14.0.1_linux-x64_bin-sdk.zip /usr/lib/openjfx-14.0.1.zip
+cd /usr/lib
+unzip openjfx-14.0.1.zip 
+sudo unzip openjfx-14.0.1.zip 
+ls
+cd openjfx-14.0.1.zip 
+cd lib
+sudo mkdir openjfx-14.0.1
+mv openjfx-14.0.1.zip openjfx-14.0.1
+sudo mv openjfx-14.0.1.zip openjfx-14.0.1
+cd openjfx-14.0.1/
+ls
+unzip openjfx-14.0.1.zip 
+sudo unzip openjfx-14.0.1.zip 
+ls
+cd ..
+cd ..
+mv lib/openjfx-14.0.1/javafx-sdk-14.0.1/ lib/
+cd lib
+cd javafx-sdk-14.0.1/
+cd ..
+sudo rmdir -f openjfx-14.0.1/
+sudo rmdir openjfx-14.0.1/
+sudo rm -df openjfx-14.0.1/
+sudo rm -dfr openjfx-14.0.1/
+cd javafx-sdk-14.0.1/
+ls
+cd ..
+cd ~
+ls
+yay -S phpstorm
+sudo pacman -R intellij-idea-community
+sudo pacman -R intelij-idea-community
+sudo pacman -R intelij-idea-community-edition
+sudo pacman -R intellij-idea-community-edition
+sudo pacman -S vs-code
+sudo pacman -S code
+cd GitProjects/Java/IMat/
+git pull
+ls
+sudo pacman -S xfce4-whiskermenu-plugin
+ls
+mkdir build
+git clone https://github.com/tryone144/compton.git
+ls
+mv compton/ build/
+cd build/
+ls
+cd compton/
+ls
+sudo pacman -S libx11
+sudo pacman -S libxcomposite
+sudo pacman -S libxdamage
+sudo pacman -S libxfixes
+sudo pacman -S libXext
+sudo pacman -S libxrender
+sudo pacman -S libxrandr
+sudo pacman -S libxext
+sudo pacman -S libxinerama
+sudo pacman -S pkg-config
+sudo pacman -S make
+sudo pacman -S xproto
+sudo pacman -S x11proto
+sudo pacman -S sh
+sudo pacman -S x11-utils
+sudo pacman -S libpcre
+sudo pacman -S libconfig
+sudo pacman -S libdrm
+sudo pacman -S libgl
+sudo pacman -S libdbus
+sudo pacman -S asciidoc
+make
+make docs
+make install
+sudo make install
+ls
+cd ..
+ls
+cd ..
+ls
+ls -a
+cd .config/
+ls
+sudo pacman -S picom
+cd ..
+ls
+cd build/
+ls
+cd compton/
+make uninstall
+sudo make uninstall
+cd ~
+sudo pacman -S picom
+sudo rm /usr/share/icons/hicolor/48x48/apps/compton.png 
+sudo rm /usr/share/icons/hicolor/scalable/apps/compton.svg 
+sudo pacman -S picom
+picom &
+picom &
+picom &
+picom &
+asdld
+ls
+cd .config/
+ls
+ls -a
+ls
+cp /etc/xdg/picom.conf picom.conf
+nano picom.conf 
+nano picom.conf 
+sudo pacman -R picom.conf
+sudo pacman -R picom
+yay -S compton-tyrone-git
+man compton
+cd ..
+cd build/
+ls
+cd compton/
+make install
+sudo make install
+cd ..
+cd ..
+compton
+ls
+ls -a
+cd .config/
+ls
+cd /etc/xdg/
+ls
+cd /
+cd ~
+man compton
+ls
+cd build/
+sudo make uninstall
+sudo make uninstal
+cd compton/
+sudo make uninstall
+sudo pacman -S picom
+sudo rm /usr/share/icons/hicolor/48x48/apps/compton.png 
+sudo rm /usr/share/icons/hicolor/scalable/apps/compton.svg 
+sudo pacman -S picom
+picom &
+exit
+exit
+yay -S picom-tyrone-git
+yay -S picom-tryone-git 
+picom &
+reboot
+picom &
+picom & --blur-method dual_kawase --blur-strength 7
+picom --blur-method dual_kawase --blur-strength 7
+picom --blur-method dual_kawase --blur-strength 7
+picom --blur-method dual_kawase --blur-strength 7
+exit
+picom --blur-method dual_kawase --blur-strength 7
+picom --blur-method asdf --blur-strength 7
+picom --experimental-backends --blur-method asdf --blur-strength 7
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+ls
+cd .config/
+ls
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+cd .config/
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+xprop
+xprop
+xprop
+xprop
+xprop
+ls
+cd .config/
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+cd .config/
+ls
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+picom --experimental-backends --blur-method dual_kawase --blur-strength 5
+picom --experimental-backends --blur-method dual_kawase --blur-strength 5
+sudo pacman -S adapta-gtk-theme arc-gtk-theme arc-solid-gtk-theme breeze-gtk
+nano .profile 
+sudo pacman -S xfwm4-themes
+yay -S yaru-gtk-theme
+yay -S Sökresultat
+Webbresultat
+yay -S chrome-window-title-bar-xfwm-theme
+mkdir .local
+cd .local/
+ls
+cd share/
+ls
+mkdir themes
+cd ~/Downloads/ChrButtons.tar.xz themes/
+mv ~/Downloads/ChrButtons.tar.xz themes/
+cd themes/
+mkdir chr-title
+mv ChrButtons.tar.xz chr-title/
+cd chr-title/
+tar -xvf ChrButtons.tar.xz 
+ls
+cd ..
+mv chr-title/ChrButtons ChrButtons
+ls
+rm -frd chr-title/
+ls
+cd ChrButtons/
+ls
+cd ChrAdapta/
+ls
+cd ..
+ls
+cd ..
+mv ChrButtons/ChrDarkButtons/ ChrDarkButtons
+ls
+cd ..
+cd ..
+cd share/
+cd themes/
+ls
+mv ChrButtons/ChrAdapta/ ChrAdapta
+mv ChrButtons/ChrBlueButtons/ ChrBlueButtons
+mv ChrButtons/ChrDarkVariant/ ChrDarkVariant
+mv ChrButtons/ChrGreyButtons/ ChrGrayButtons
+ls
+cd ..
+cd ~
+ls
+mv Downloads/111097-SugarLike.tar.gz .local/share/themes/
+cd .local/share/themes/
+tar -xvf 111097-SugarLike.tar.gz 
+ls
+cd Sugar
+cd ..
+cd Sugar
+ls
+cd ..
+cd SugarGreen
+ls
+cd gtk-2.0/
+ls
+cd ..
+cd ..
+ls
+sudo pacman -S highcolor-icon-theme
+sudo pacman -S hicolor-icon-theme
+yay -S tela-icon-theme
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+glxgears --info
+glxgears -info
+sudo pacman -S cairo-dock cairo-dock-plug-ins
+cairo-dock &
+cairo-dock
+cd .config/
+nano picom.conf 
+picom --experimental-backends --blur-method dual_kawase --blur-strength 7
+cd .config/
+nano picom.conf 
+picom
+picom --experimental-backends
+picom -h
+picom -status
+picom -version
+reboot
+plank
+yay -S zoom
+zoom
+git pull 
+reboot

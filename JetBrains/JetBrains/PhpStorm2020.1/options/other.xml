@@ -1,0 +1,15 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="appcds.runOnSecondStart" value="PS-201.7846.90-1cdac83478caf08f5211ad746dd870fb93673b59a709a0b733858ba28fc0e693" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.201" value="11" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="lastSeenTip" value="neue-RecentChanges.html" />
+    <property name="lastTimeTipsWereShown" value="1592232227063" />
+    <property name="seenTips" value="neue-TerminalOpen.html,neue-ExternalJavaDoc.html,neue-RecentChanges.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

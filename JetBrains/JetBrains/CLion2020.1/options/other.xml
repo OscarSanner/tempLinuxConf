@@ -1,0 +1,22 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="CL-201.7846.88-1dc855cb95508960896f5cd78cc3b239f5096e91a6813ec15c4639a183df064d" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.201" value="19" />
+    <property name="file.chooser.recent.files" value="/usr/bin/cmake" />
+    <property name="file.gist.reindex.count" value="35" />
+    <property name="lastSeenTip" value="neue-SelectRunDebugConfiguration.html" />
+    <property name="lastTimeTipsWereShown" value="1597008883269" />
+    <property name="last_opened_file_path" value="/usr/bin/cmake" />
+    <property name="seenTips" value="neue-GenerateDefinitions.html,neue-SearchEverywhere.html,neue-LayoutCode.html,neue-SelectRunDebugConfiguration.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

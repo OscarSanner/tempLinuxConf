@@ -1,0 +1,500 @@
+curl -sf https://api.spacexdata.com/v3/launches/next
+clear
+43200 / 60
+"43200 / 60"
+1+1
+sudo pacman -S bc
+bc
+optimus-manager --help
+cd build/
+ls
+git clone https://github.com/polybar/polybar-scripts.git
+ls
+cd polybar-scripts/
+ls
+cd polybar-scripts/
+ls
+cd ~/scripts/
+ls
+cd ../.config/polybar/
+ls
+cd ~
+mv build/polybar-scripts/polybar-scripts/system-bluetooth-bluetoothctl/system-bluetooth-bluetoothctl.sh .config/polybar/
+cd build/polybar-scripts/polybar-scripts/system-bluetooth-bluetoothctl/
+ls
+vim README.md 
+cd ~/.config/polybar/
+chmod +x system-bluetooth-bluetoothctl.sh 
+vim system-bluetooth-bluetoothctl.sh 
+ls
+cd ..
+cd ~
+ls
+mv build/polybar-scripts/polybar-scripts/notification-spacex/notification-spacex.sh .config/polybar/
+cd .config/polybar/
+chmod +x notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+vim notification-spacex.sh 
+./notification-spacex.sh 
+./notification-spacex.sh 
+vim notification-spacex.sh 
+ls
+ls
+cd ~
+cd scripts/
+ls
+mkdir polybar-wip-scripts
+cd polybar-wip-scripts/
+vim info-optimus-manager
+mv info-optimus-manager info-optimus-manager
+cd ..
+vim polybarRestartScript 
+cd polybar-wip-scripts/
+vim info-optimus-manager 
+mv info-optimus-manager info-optimus-manager.sh
+vim info-optimus-manager.sh 
+chmod +x info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+vim scripts/polybarRestartScript 
+cd scripts/polybar-wip-scripts/
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+optimus-manager --switch nvidia
+optimus-manager --help
+optimus-manager --print-mode
+vim .config/polybar/notification-spacex.sh 
+optimus-manager --print-mode
+optimus-manager --help
+cd scripts/polybar-wip-scripts/
+./info-optimus-manager.sh 
+optimus-manager --switch intel
+polybar-msg hook titlehook 1
+polybar-msg hook titlehook 
+man polybar-msg
+polybar-msg hook titlehook 1
+vim /tmp/polybar_mqueue.8758 
+vim /tmp/polybar_mqueue.8758 
+polybar-msg -h
+ps aux
+ps aux | grep windowlistener.py
+pidof -x "abc.sh" >/dev/null
+pidof -x "windowlistener.py" >/dev/null
+ls
+cd scripts/
+pidof -x "windowlistener.py" >/dev/null
+ls
+cp scripts/polybar-wip-scripts/info-optimus-manager.sh .config/polybar/
+cd .config/polybar/
+vim config 
+ls
+cd .config/polybar/
+vim info-optimus-manager.sh 
+./ info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+vim .config/polybar/system-bluetooth-bluetoothctl.sh 
+cd scripts/
+vim picomStart.sh 
+vim i3getRefined.py 
+vim windowlistener.py 
+cd ..
+vim .config/polybar/system-bluetooth-bluetoothctl.sh 
+cd .config/polybar/
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh --switch
+polybar-msg hook info-optimus-manager-ipc 1
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+ps aux | grep info-optimus-manager.sh
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+./info-optimus-manager.sh --switch
+cd .config/polybar/
+vim info-optimus-manager.sh 
+./ info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh --switch
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh --switch
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh --switch
+vim info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+yay -S optimus-manager-qt
+optimus-manager-qt 
+optimus-manager-qt -help
+optimus-manager-qt settings
+optimus-manager-qt version
+optimus-manager-qt -version
+optimus-manager-qt --version
+optimus-manager-qt --
+optimus-manager-qt --v
+optimus-manager-qt -v
+cd .config/polybar/
+vim info-optimus-manager.sh 
+ls
+cd ~
+ls
+cp .config/polybar/info-optimus-manager.sh scripts/polybar-wip-scripts/info-optimus-manager.sh 
+vim scripts/polybar-wip-scripts/info-optimus-manager.sh 
+cd scripts/polybar-wip-scripts/
+ls
+vim README.md
+ös
+ls
+cd ~/.config/polybar/
+vim config 
+vim info-optimus-manager.sh 
+vim config 
+vim config 
+vim config 
+sudo pacman -S deepin-screenshot
+mv Desktop/DeepinScreenshot_select-area_20200619230300.png scripts/polybar-wip-scripts/screenshot.png
+cd scripts/polybar-wip-scripts/
+ls
+vim README.md 
+ls
+mkdir screenshots
+mv screenshot.png screenshots
+ls
+git init
+git remote add origin https://github.com/OscarSanner/polybar-optimus-manager.git
+git push origin master
+git push
+git push --set-upstream origin master
+git add .
+git commit -m "initial"
+git push
+git push origin master
+git pull
+git pull origin master
+rm README.md 
+git push origin master
+git pull origin master
+git pull origin master --rebase
+git add .
+git commit -m "trying again"
+git pull origin master --rebase
+git rebase --abort
+ls
+git pull origin master 
+git pull origin master --allow-unrelated-histories
+ls
+git commit -m "merged"
+git push origin master
+vim ~/.config/polybar/config 
+notepadqq config
+cd ~/.config/polybar/
+notepadqq config
+ls
+cd ~
+cd scripts/polybar-wip-scripts/
+s
+ls
+cd screenshots/
+ls
+rm screenshot.png 
+cd ..
+mv ~/Desktop/DeepinScreenshot_select-area_20200620003520.png screenshot
+ls
+mv screenshot screenshots/screenshot.png
+ls
+cd screenshots/
+ls
+cd ..
+git add .
+git pull
+git pull origin master 
+git add .
+git commit -m "changed pic"
+git push origin master
+ls
+cd screenshots/
+mv screenshot.png 1.png
+git add .
+git commit -m "changed name"
+git push origin master
+ls
+ls
+cd ..
+ls
+ls
+vim info-optimus-manager.sh 
+git pull
+git pull origin master
+git add .
+git commit -m "changed default output"
+git push origin master
+vim info-optimus-manager.sh 
+bluetoothctl 
+bluetoothctl -help
+bluetoothctl pair 00:11:22::33
+bluetoothctl scan
+bluetoothctl scan on
+bluetoothctl 
+ls
+bluetoothctl -help
+:q
+sudo pacman -S playerctl zscroll
+sudo pacman -S playerctl
+yay -S zscroll-git
+playerctl play-pause spotify
+playerctl next spotify
+bluetoothctl connect
+bluetoothctl list
+bluetoothctl paired-devices
+bluetoothctl 2C:4D:79:C0:1A:8A  connect
+bluetoothctl connect 2C:4D:79:C0:1A:8A
+ls
+cd build/
+ls
+git clone https://github.com/PrayagS/polybar-spotify.git
+ls
+mv polybar-spotify/ polybar-scripts/
+ls
+cd polybar-scripts/
+ls
+mv polybar-spotify/ ..
+ls
+cd ..
+ls
+mv polybar-spotify/get_spotify_status.sh ~/.config/polybar/
+mv polybar-spotify/scroll_spotify_status.sh ~/.config/polybar/
+cd ~/.config/polybar/
+vim config 
+vim .config/polybar/config 
+vim .config/polybar/config 
+cd .config/polybar/
+ls
+vim get_spotify_status.sh 
+ls
+chmod +x get_spotify_status.sh 
+chmod +x scroll_spotify_status.sh 
+pgrep -f "Polybar now-playing"
+cd .config/polybar/
+vim get_spotify_status.sh 
+./get_spotify_status.sh 
+./get_spotify_status.sh 
+./get_spotify_status.sh 
+vim get_spotify_status.sh 
+./scroll_spotify_status.sh 
+vim ./scroll_spotify_status.sh 
+./scroll_spotify_status.sh 
+vim ./scroll_spotify_status.sh 
+./scroll_spotify_status.sh 
+./scroll_spotify_status.sh 
+./get_spotify_status.sh 
+vim get_spotify_status.sh 
+vim config 
+vim -help packages
+vim -help:packages
+ls
+cd .vim/pack/vendor/start
+git pull https://github.com/vim-airline/vim-airline.git
+git clone https://github.com/vim-airline/vim-airline.git
+ls
+cd vim-airline/
+ls
+cd ..
+vim ~/scripts/polybar-wip-scripts/
+vim ~/scripts/polybar-wip-scripts/info-optimus-manager.sh 
+ls
+mkdir -p ~/.vim/pack/vendor/start
+ls
+cd .vim
+ls
+cd pack/vendor/start/
+git clone https://github.com/preservim/nerdtree.git
+ls
+cd nerdtree/
+ls
+cd ..
+ls
+vim
+ivm
+vim
+vim
+ls
+cd scripts/
+ls
+cd ..
+cd build/
+ls
+cd polybar-scripts/
+ls
+cd polybar-scripts/
+ls
+cd network-networkmanager/
+ls
+vim 90-polybar 
+bluetoothctl 
+bluetoothctl 
+bluetoothctl 
+ls
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+notepadqq info-optimus-manager.sh 
+ls
+./info-optimus-manager.sh 
+ls
+git add .
+git commit -m "info-optimus-manager: changed shebang in script to bash"
+git push origin master
+cd build/polybar-scripts/polybar-scripts/network-networkmanager/
+ls
+cp 90-polybar /etc/NetworkManager/dispatcher.d/
+sudo cp 90-polybar /etc/NetworkManager/dispatcher.d/
+cd /etc/NetworkManager/dispatcher.d/
+ls
+sudo chmod +x 90-polybar 
+cd  
+cp build/polybar-scripts/polybar-scripts/network-networkmanager/network-networkmanager.sh .config/polybar/
+vim .config/polybar/config 
+vim temp.sh
+chmod +x temp.sh 
+./temp.sh
+ls
+cd .config/polybar/
+ls
+chmod +x network-networkmanager.sh 
+ls
+ls
+cd ~
+mkdir pullreq
+cd pullreq/
+git clone https://github.com/OscarSanner/polybar-scripts.git
+ls
+git pull https://github.com/OscarSanner/polybar-optimus-manager.git
+git clone https://github.com/OscarSanner/polybar-optimus-manager.git
+ls
+cd polybar-optimus-manager/
+vim README.md 
+mv README.md README.md.old
+vim README.md
+ls
+vim info-optimus-manager.sh 
+ls
+cd ..
+ls
+cd polybar-optimus-manager/
+ls
+cd ..
+ls
+cd polybar-
+cd polybar-scripts/
+ls
+cd polybar-scripts/
+ls
+mkdir info-optimus-manager
+cd player-cmus/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+mv polybar-optimus-manager/info-optimus-manager.sh polybar-scripts/polybar-scripts/info-optimus-manager/
+mv polybar-optimus-manager/screenshots/ polybar-scripts/polybar-scripts/info-optimus-manager/
+mv polybar-optimus-manager/README.md polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+cd polybar-scripts/
+ls
+cd polybar-scripts/
+cd info-optimus-manager/
+ls
+vim README.md 
+ls
+git push origin master
+git add .
+git commit -m "added info-optimus-manager module to script-collection"
+git push origin master
+ls
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+notepadqq info-optimus-manager.sh 
+vim scripts/windowlistener.py 
+sudo pacman -S node
+sudo pacman -S node.js
+ping google.com
+sudo pacman -S nodejs
+sudo pacman -S nodejs
+sudo pacman -Syy nodejs
+yay -S webstorm
+sudo pacman -S npx
+sudo pacman -S react
+node
+npm
+npm
+sudo pacman -S npm
+npm version
+ls
+man git
+npm run dev
+npm i -D @vercel/node
+git -am "added api test file"
+git commit -am "added api test file"
+git push
+git add .
+git status
+git commt -m "fixed last push"
+git commit -m "fixed last push"
+git push
+git add .
+git commit -m "added date.py"
+git push
+git push
+git git add .
+git add .
+git commit -m "testing download feature "
+git push
+git commit -m "fixed python test script"
+git add .
+git commit -m "fixed python test script"
+git push
+npm run dev
+npm run dev
+git add .
+git commit -m "minor fix on python file"
+git push
+git add .
+git commit -m "moved function in python script"
+git push

@@ -1,0 +1,104 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/GitProjects/chrooms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dg8i9E1RclxOPcrtXSFi3mHFnW">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087759503" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1593118885192" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dg0l9hP8vmz5yHdKu6VWEVzGtR">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087760824" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1593167245790" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/learnNode1">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dqzBShTei7SjqzwyEwA1TxH7hi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087782626" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1593634367448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/learnSomeReact">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1e6Fxi05UpAozxhe4W4Qu7kMquA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087782626" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1593634383389" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/learnSomeReact/simple-todo-app">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1e6G0lzsZ2GdsF87zHpzUuPXbmn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087782626" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1593634407552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/tryJS">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1e6htHdTGrb6qA6hzySkw2Es7NA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087782626" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1593648162200" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitProjects/imat-react">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1e88Q15LYelY8L2stKgm8N7gwj7">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087773119" />
+              <frame x="0" y="5" width="1536" height="859" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1593708036627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/GitProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/GitProjects/imat-react" />
+        <option value="$USER_HOME$/WebstormProjects/tryJS" />
+        <option value="$USER_HOME$/WebstormProjects/learnSomeReact/simple-todo-app" />
+        <option value="$USER_HOME$/WebstormProjects/learnSomeReact" />
+        <option value="$USER_HOME$/WebstormProjects/learnNode1" />
+        <option value="$USER_HOME$/WebstormProjects/untitled" />
+        <option value="$USER_HOME$/GitProjects/chrooms" />
+      </list>
+    </option>
+  </component>
+</application>

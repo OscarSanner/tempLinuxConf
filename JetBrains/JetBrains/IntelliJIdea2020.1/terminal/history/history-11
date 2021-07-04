@@ -1,0 +1,500 @@
+ls
+cd WebstormProjects/
+ls
+cd vanillaHtmlCss/
+ls
+live-server index.html 
+npm live-server index.html 
+node live-server index.html 
+live-server index.html 
+npm install -g live-server
+sudo npm install -g live-server
+live-server index.html 
+cd ~
+ls
+mkdir test
+ls
+cd te
+cd test/
+touch index.html
+vim index.html 
+live-server index.html 
+vim index.html 
+ls
+mupdf mozilla.pdf 
+cd test/
+mupdf mozilla.pdf 
+ls
+ls
+cd CLionProjects/
+ls
+cd socket
+cd socket_http_server/
+ls
+make main.c 
+gcc main.c -o
+gcc main.c -o server
+ls
+./server 
+rm server 
+gcc -g main.c 
+ls
+gdb a.out 
+gdb a.out 
+ls
+gcc -o main.c server
+gcc main.c -o server
+./server
+./server
+xprop
+xprop
+cd WebstormProjects/
+ls
+nodeHTTPReq/
+cd nodeHTTPReq/
+ls
+vim httpreq.js 
+ls
+cd ~/GitProjects/chrooms/
+git add .
+git commit -m "Wrote fetch functions in frontend and connected API with frontend. Basic frontend boilerplate. Basic selection menu completed. We can now get objects from api to the react client. Objects are also filtered based on type and location. API doing the heavy work. Learned alot."
+vim .gitignore 
+ls
+cd webstuff/
+ls
+rm ServerAPI/rooms.json 
+ls
+cd ..
+git push 
+git add .
+git commit "forgot minor change"
+git commit -m "forgot minor change"
+git push
+ls
+git push 
+touch AnEmptyFile
+git add .
+git commit -m "created an empty file. Dont ask"
+git push
+cd ~
+vim .config/i3/config
+vim .config/i3/config
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+zoom
+yay -S zoom
+cd Downloads/
+ls
+rm ubuntu-20.04-live-server-amd64.iso 
+ls
+rm yay.tar.gz 
+rm jar_files.zip 
+rm -frd yay/
+rm -frd icofont/
+rm dummy.pdf 
+ls
+yay -S zoom
+reboot
+systemctl disable nginx.service
+systemctl stop nginx.service
+sl
+ls
+cd pull
+cd pullreq/
+ls
+rm  polybar-optimus-manager/
+rm -frd  polybar-optimus-manager/
+rm -frd polybar-scripts/
+ls
+cd ..
+ls
+cd Documents/
+ls
+cd ..
+ls
+cd  build/
+ls
+rm compton/
+rm -frd  compton/
+ls
+rm -frd i3ipc*
+ls
+rm -frd siji/
+rm -frd polybar-spotify/
+rm -frd polybar-scripts/
+rm -frd picom
+ls
+cd ..
+ls
+cd Music/
+ls
+cd ..
+cd PhpstormProjects/
+ls
+cd untitled/
+ls
+cd ..
+cd ..
+rm -frd PhpstormProjects/
+yay -R phpstorm
+ls
+vim stale_outputs_checked 
+rm stale_outputs_checked 
+vim temp
+rm temp
+vim temp.sh 
+rm temp.sh 
+ls
+vim REMEMBER 
+rm REMEMBER 
+ls
+vim java_error_in_WEBIDE_38170.log 
+rm java_error_in_WEBIDE_38170.log 
+ls
+rm info-optimus-manager.sh 
+cd Templates/
+ls
+cd ..
+ls
+cd scripts/
+ls
+cd ..
+ls
+cd VirtualBox\ VMs/
+ls
+cd Ubuntu\ Server/
+ls
+cd ..
+cd ..
+ls -l
+rm -frd VirtualBox\ VMs/
+ls
+pacman -S plasma-meta
+sudo pacman -S plasma-meta
+xrandr --output eDP-1-1 --scale '1.6x1.6'
+xrandr --output eDP1 --scale '1.6x1.6'
+reboot
+ls
+ls
+cd scripts/
+touch downscale.sh
+vim downscale.sh 
+chmod +x downscale.sh 
+./downscale.sh 
+reboot
+cd scripts/
+vim downscale.sh 
+cd scripts/
+vim downscale.sh 
+:q
+./downscale.sh 
+reboot
+cd .config/polybar/config
+vim .config/polybar/config
+start plasmashell
+kstart
+kstart5
+ls
+cd scripts/
+ls
+vim downscale.sh 
+./downscale.sh 
+reboot
+ls
+vim .Xresources
+cp .Xre
+cp .Xresources .XresourcesPLA
+mv .XresourcesPLA .config/Xresources_Plasma
+cd /usr/lib/X11/
+ls
+cd /
+cd etc/X11/xinit/
+ls
+vim xinitrc
+vim .profile 
+ls
+ls -a
+vim .bash-profile
+ls -a
+vim .bash_profile 
+reboot
+vim .profile 
+ls
+vim .profile 
+printenv
+clear
+vim /etc/lightdm/Xsession 
+exit
+vim .Xresources
+xrdb ~/.Xresources
+vim .Xresources
+xrdb ~/.Xresources
+reboot
+ls
+mv .profile .profile.bak
+reboot
+reboot
+ls
+ls
+ls
+vim .xinitrc 
+vim .Xresources
+xrdb ~/.Xresources
+ls
+reboot
+mv .profile.bak .profile
+vim .Xresources
+exit
+xrandr --output eDP-1 --scale '1.6x1.6'
+xrandr --output eDP-1-1 --scale '1.6x1.6'
+xrandr --output eDP1 --scale '1.6x1.6'
+xrandr --output eDP-1 --scale '1.4x1.4'
+xrandr --output eDP1 --scale '1.4x1.4'
+xrandr --output eDP1 --scale '1.7x1.7'
+xrandr --output eDP1 --scale '1.75x1.75'
+reboot
+vim .profile 
+pacman -R plasma
+sudo pacman -R plasma
+sudo pacman -R plasma-meta
+reboot
+sudo pacman -R plasma-meta
+sudo pacman -S plasma-meta
+pacman -Rns plasma-meta
+sudo pacman -Rns plasma-meta
+ls
+sudo pacman -S mate
+reboot
+ls .config/xfce4/
+cd .config/xfce4/
+cd desktop/
+ls
+cd ..
+ls
+ls panel/
+ls terminal/
+ls xfconf/
+dm-tool lock
+vim /usr/bin/xflock4 
+cd /usr/bin/
+./xflock
+./xflock4
+sudo vim xflock4 
+./xflock4
+sudo vim xflock4 
+./xflock4
+sudo vim xflock4 
+./xflock4
+sudo vim xflock4 
+./xflock4
+sudo vim xflock4 
+dm-tool --lock
+dm-tool lock
+sudo vim xflock4 
+dm-tool lock
+./xflock4
+vim /etc/systemd/system/screen_lock@.service
+sudo vim /etc/systemd/system/screen_lock@.service
+sudo vim /etc/systemd/system/screen_lock@.service
+sudo systemctl enable screen_lock@<username>.service
+sudo systemctl enable screen_lock@<oscar>.service
+sudo systemctl enable screen_lock@oscar.service
+sudo systemctl start screen_lock@oscar.service
+reboot
+$DISPLAY
+echo $DISPLAY
+journalctl -xe
+yay -S powerkit
+yay -S powerkit
+yay -S powerkit
+sudo vim /etc/systemd/system/screen_lock@.service
+sudo systemctl start screen_lock@oscar.service
+systemctl status screen_locker@oscar.service
+systemctl status screen_lock@oscar.service
+powerkit &
+xfce4-power-manager
+xfce4-power-manager
+xfce4-power-manager
+vim .config/i3/config
+cd GitProjects/
+ls
+git clone https://github.com/OscarSanner/SchoolProjects.git
+ls
+cd SchoolProjects/
+ls
+cd TDA552/
+ls
+cd Assignment/
+ls
+cd ..
+cd Labb/
+ls
+sudo pacman -S gnome
+cd GitProjects/GreatSpace/
+ls
+vim oscarsTankar.txt
+ls
+vim .Xresources
+mv .profile .profile.bak
+reboot
+sudo pacman -S gnome-extras
+sudo pacman -S gnome-extra
+sudo pacman -S gnome-tweaks
+gnome-tweaks
+ls .config/autostart
+cd .config/autostart
+vim 'scaling (intel).desktop' 
+xrandr --output eDP-1 --scale '1.6x1.6'
+xrandr --output eDP1 --scale '1.6x1.6'
+xrandr --output eDP1 --scale '1.7x1.7'
+xrandr --output eDP1 --scale '1.6x1.6'
+xrandr --output eDP1 --scale '1.7x1.7'
+xrandr --output eDP1 --scale '1.6x1.6'
+gsettings set org.gnome.desktop.interface scaling-factor 2
+gsettings set org.gnome.desktop.interface scaling-factor 1
+gsettings set org.gnome.desktop.interface scaling-factor 2
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Gdk/WindowScalingFactor': <2>}"
+gsettings set org.gnome.desktop.interface scaling-factor 1
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Gdk/WindowScalingFactor': <2>}"
+gsettings reset org.gnome.desktop.interface scaling-factor
+r
+killall -SIGQUIT gnome-shell
+gsettings reset org.gnome.desktop.interface scaling-factor
+killall -SIGQUIT gnome-shell
+gsettings set org.gnome.desktop.interface scaling-factor 1
+killall -SIGQUIT gnome-shell
+gsettings set org.gnome.mutter experimental-features "['x11-randr-fractional-scaling']"
+vim .config/autostart/scaling\ \(intel\).desktop 
+gsettings reset org.gnome.desktop.interface scaling-factor
+gsettings reset org.gnome.mutter experimental-features
+reboot
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "[{'Gdk/WindowScalingFactor', <1>}]"
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "[{'Gdk/WindowScalingFactor', <2>}]"
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "[{'Gdk/WindowScalingFactor', <1>}]"
+gsettings set org.gnome.desktop.interface scaling-factor 2
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "[{'Gdk/WindowScalingFactor', <2>}]"
+reboot
+gsettings set org.gnome.desktop.interface scaling-factor 1
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "[{'Gdk/WindowScalingFactor', <1>}]"
+gsettings reset org.gnome.settings-daemon.plugins.xsettings overrides
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Xft/DPI': <153600>}"
+xrandr --output eDP1 --scale '1.6x1.6'
+gsettings reset org.gnome.settings-daemon.plugins.xsettings overrides
+xrandr --output eDP1 --scale '2.0x2.0'
+xrandr --output eDP1 --scale '1.0x1.0'
+reboot
+gsettings set org.gnome.desktop.interface scaling-factor 2
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Gdk/WindowScalingFactor': <2>}"
+xrandr --output DP1 --scale 1.5x1.5
+xrandr --output eDP1 --scale 1.5x1.5
+gsettings reset org.gnome.desktop.interface scaling-factor
+gsettings reset org.gnome.settings-daemon.plugins.xsettings overrides
+xrandr --output eDP1 --scale 1x1
+xrandr --output eDP1 --scale 1.25x1.25
+gsettings set org.gnome.desktop.interface scaling-factor 2
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Gdk/WindowScalingFactor': <2>}"
+killall -SIGQUIT gnome-shell
+xrandr --output eDP1 --scale '1.25x1.25'
+xrandr --output eDP1 --scale 1x1
+gsettings reset org.gnome.settings-daemon.plugins.xsettings overrides
+gsettings reset org.gnome.desktop.interface scaling-factor
+gsettings set org.gnome.settings-daemon.plugins.xsettings overrides "{'Gdk/WindowScalingFactor': <1>}"
+gsettings reset org.gnome.settings-daemon.plugins.xsettings overrides
+reboot
+xrandr --output eDP1 --scale 1.25x1.25
+xrandr --output eDP1 --scale 1x1
+xrandr --output eDP1 --scale 1x1
+gsettings set org.gnome.mutter experimental-features "['x11-randr-fractional-scaling']"
+killall -SIGQUIT gnome-shell
+reboot
+gsettings reset org.gnome.mutter experimental-features
+gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"
+ls
+vim .config/zoomus.conf 
+ls
+ls -a
+vim .Xresources
+mv .profile.bak .profile
+xinput list
+xinput list props 13
+xinput listprops 13
+xinput props 13
+xinput list-props 13
+vim .config/i3/config
+reboot
+ls
+ls -r /
+ls -a
+ls -al
+vim .config/i3/config
+xinput list-props 13
+xinput help 13
+xinput list-props 13
+xinput list
+xinput list-props 14
+xinput list-props 12
+xinput list-props 13
+pacman -Rns gnome gnome-extra 
+sudo pacman -Rns gnome gnome-extra 
+sudo pacman -Rns gnome gnome-extra 
+sudo pacman -Rsu gnome gnome-extra 
+reboot
+sudo pacman -Syu
+reboot
+optimus-manager --switch nvidia
+optimus-manager --switch intel
+vim .config/i3/config
+reboot
+xinput list-props 13 
+vim .config/i3/config
+vim .config/i3/config
+xprop
+xprop
+ls
+lalalala
+vim allTheWay
+vim test.js
+vim test.c
+gcc -o test.c test
+gcc -o test.c testa
+gcc -o testcomp test.c
+ls | grep .c
+vim test.c
+gcc -o test.c comptest
+gcc -o testa test.c
+./testa
+wifi-menu 
+sudo wifi-menu 
+nm-applet
+vim .config/i3/config
+ls
+cd GitProjects/
+ls
+cd GreatSpace/
+git checkout -b changes
+git add .
+git push
+git push --set-upstream origin changes
+git remote remove all
+git remote remove 
+vim .git
+git push --set-upstream origin changes
+git add .
+git commit -m "changes"
+git push --set-upstream origin changes
+git add .
+git commit -m "changes"
+git push --set-upstream origin changes
+reboot
+reboot
+alsamixer
+cd Downloads/
+unzip GangOfFour.zip 
+ls
+mupdf GangOfFour.pdf 
+mupdf Downloads/GangOfFour.pdf 
+mupdf Downloads/GangOfFour.pdf &
+mupdf Downloads/Objektorienterad\ Analys\ av\ Kodbas.pdf 
+mupdf Downloads/Objektorienterad\ Analys\ av\ Kodbas.pdf &

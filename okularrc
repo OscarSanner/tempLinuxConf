@@ -1,0 +1,20 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[MainWindow]
+Height 864=777
+State=AAAA/wAAAAD9AAAAAAAABcQAAALQAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1536=1476
+
+[Print Preview]
+Height 864=500
+Width 1536=600
+
+[Recent Files]
+File1[$e]=$HOME/Chalmers Onedrive/MASKINORIENTERAT (DAT017)/The C Programming Language, 2nd Edition.pdf
+File2[$e]=$HOME/Chalmers Onedrive/MATEMATISK ANALYS (MVE045)/Calculus 9th.pdf
+Name1[$e]=The C Programming Language, 2nd Edition.pdf
+Name2[$e]=Calculus 9th.pdf

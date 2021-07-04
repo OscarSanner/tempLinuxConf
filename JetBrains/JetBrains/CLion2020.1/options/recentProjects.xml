@@ -1,0 +1,76 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dMpNzYjqC4wnMOfeGbIsdi10Ep">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-201.7846.88" />
+              <option name="buildTimestamp" value="1591174794816" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1592244781126" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dMqDAhLC81nfkZmKnXqe1Y7qLc">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-201.7846.88" />
+              <option name="buildTimestamp" value="1591174772528" />
+              <frame x="0" y="10" width="1536" height="853" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1597008877077" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/sockets">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fsaFWAZ0QPXc0ODO7OxLs7l19v">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-201.7846.88" />
+              <option name="buildTimestamp" value="1591174772528" />
+              <frame x="0" y="27" width="1536" height="836" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1597010975510" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/sockets_server">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1fsdsJET24sln0RidEmVXj6CD2p">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-201.7846.88" />
+              <option name="buildTimestamp" value="1591174772528" />
+              <frame x="0" y="27" width="1536" height="836" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1597091395115" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/socket_http_server">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1fvGx1rMLBqBYVir34tclxHvoro">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-201.7846.88" />
+              <option name="buildTimestamp" value="1591174772528" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1597091395115" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/CLionProjects/socket_http_server" />
+        <option value="$USER_HOME$/CLionProjects/sockets_server" />
+        <option value="$USER_HOME$/CLionProjects/sockets" />
+        <option value="$USER_HOME$/CLionProjects/untitled1" />
+        <option value="$USER_HOME$/CLionProjects/untitled" />
+      </list>
+    </option>
+  </component>
+</application>

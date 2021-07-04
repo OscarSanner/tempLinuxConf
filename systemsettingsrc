@@ -1,0 +1,20 @@
+[KFileDialog Settings]
+Recent Files[$e]=downscale.sh,file:$HOME/scripts/downscale.sh
+Recent URLs[$e]=file:$HOME/scripts/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 540=456
+Width 960=410
+
+[MainWindow]
+Height 1080=700
+Height 540=489
+Height 864=700
+Width 1536=1024
+Width 1920=1024
+Width 960=864
+
+[Open-with settings]
+CompletionMode=1
+History=spo

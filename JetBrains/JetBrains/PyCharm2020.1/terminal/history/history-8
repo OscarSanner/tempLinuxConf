@@ -1,0 +1,500 @@
+cd server/
+ls
+npm i joi
+ ping google.com
+npm i joi
+npm remove joi
+npm i @hapi/joi
+ls
+cd ..
+ls
+cd ..
+ls
+cd nodeHTTPReq/
+ls
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+ls
+cd GitProjects/
+ls
+cd imat-react/
+ls
+npm start
+vim package.json 
+ls
+cd .
+cd ..
+ls
+cd .
+cd .
+ls
+cd ..
+ls
+cd WebstormProjects/
+ls
+mkdir reactWithApi
+ls
+rmdir reactWithApi/
+ls reactWithApi/
+cd react
+cd reactWithApi/
+ls
+cd ..
+rm -frd reactWithApi/
+ls
+cd reactwithapi/
+ls
+mkdir server
+cd server/
+ls
+npm init
+ls
+npm i express
+touch index.js
+ls
+node index.js 
+node index.js 
+npm install -g nodemon
+npm install nodemon
+nodemon index.js 
+node nodemon index.js 
+sudo npm install -g nodemon
+nodemon index.js 
+nodemon index.js 
+cd ..
+ls
+npm start
+ls
+cd server/
+nodemon index.js 
+cd WebstormProjects/
+ls
+cd reactwithapi/
+s
+ks
+ls
+cd s
+cd src/
+ls
+mkdir Components
+cd Components/
+ls
+cd ..
+ls
+cd ..
+ls
+npm i bootstrap-css-only
+cd ..
+ls
+cd ..
+cd GitProjects/learnReactWithMosh/
+ls
+cd src/
+ls
+vim index.js 
+cd WebstormProjects/reactwithapi/
+ls
+npm start
+cd WebstormProjects/
+cd reactwithapi/src
+ls
+cd Components/
+ls
+touch NavBar.js
+cd WebstormProjects/reactwithapi/
+ls
+npm start
+reboot
+cd WebstormProjects/
+ls
+cd reactwithapi/
+ls
+npm remove boostrap-css-only
+npm i bootstrap
+ npm install material-design-icons
+ npm remove material-design-icons
+ls
+mv ~/Downloads/*.svg public/
+cd public/
+ls
+mv favorite-24px.svg favorite_border-24px.svg home-24px.svg ../src/icons/
+ls
+cd ..
+ls
+mv src/icons/* public/
+ls
+cd src/
+ls
+cd Components/
+touch shoppingCart.js categories.js centerStage.js
+rm shoppingCart.js categories.js centerStage.js
+touch shoppingCart.jsx categories.jsx centerStage.jsx
+ls
+cd ..
+ls
+cd ..
+sl
+ls
+cd ..
+ls
+ls
+cd WebstormProjects/
+cd reactwithapi/
+ls
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+[Astart
+npm start
+⇧
+firefox --start-debugger-server 3000
+cd WebstormProjects/
+ls
+cd reactwithapi/
+cd ..
+vanillaHtmlCss/
+cd van
+cd vanillaHtmlCss/
+ls
+ls
+npm init
+ls
+npm i express
+ls
+ls
+cd ..
+sl
+ls
+cp reactwithapi/server/index.js vanillaHtmlCss/
+ls
+cd vanillaHtmlCss/
+ls
+ls
+nodemon index.js
+npm install -g live-server
+node
+node
+cd .config/i3/config
+vim .config/i3/config
+:q
+:wq
+vim .config/i3/config
+ls
+vim .config/polybar/config 
+vim .config/i3/config
+ls
+vim .config/polybar/config 
+ös
+ls
+cd .config/polybar/ 
+cp config config.bak
+vim config
+rm config
+mv config.bak config
+aur siji-git
+yay -S siji-git
+vim .xinitrc 
+ls
+cd /usr/share/fonts/
+ls
+cd TTF/
+ls
+cd ..
+ls
+cd encodings/
+ls
+cd ..
+ls
+cd cyrillic/
+ös
+ls
+ls
+cd ..
+ls
+cd 100dpi/
+ls
+cd ..
+ls
+ls
+cd ~
+ös
+ls
+ls -a
+yay -R siji-git
+yay -S siji-git
+cd .local/share/
+ls
+cd ls
+ls
+ls -a
+cd ..
+l
+s
+ls
+cd lib/
+ls
+cd ..
+ls
+cd share/
+ls
+cd fonts
+cd ..
+ls
+cd ..
+ls
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd root/
+cd usr/local/
+ls
+cd share/
+ls
+yay -R siji-git
+git clone https://github.com/stark/siji.git
+cd ~
+ls
+cd build/
+ls
+git clone https://github.com/stark/siji.git
+ls
+cd siji/
+ls
+chmod +x install.sh 
+yay -S siji-git
+ls
+sudo pacman -S xorg-xfd
+ls
+chmod +x view.sh 
+./view.sh 
+ls
+./install.sh -d ~/.fonts
+cp /etc/X11/xinit/xinitrc .xinitrc
+vim ~/.xinitrc 
+cd ~
+ls
+ls -a
+chmod +rw .xinitrc 
+chown $USER .xinitrc 
+sudo chown $USER .xinitrc 
+chmod +rw .xinitrc 
+cd .config/polybar/
+vim config 
+vim .config/polybar/notification-spacex.sh 
+ls
+cd .config/polybar
+ls
+vim info-optimus-manager.sh 
+cd ~/Downloads/
+ls
+unzip icofont.zip 
+ls
+rm icofont.zip 
+cd icofont/
+ls
+cd fonts/
+ls
+ls
+ls
+ls
+ls
+l
+sl
+l
+sl
+ls
+cd .fonts/
+ls
+cd ..
+cd build/siji/
+ls
+./view.sh 
+vim .config/i3/config
+xfd -fa siji
+xlsfonts | grep siji
+fc-list
+fc-list | grep siji
+fc-list : family | grep -i siji | tail -1
+sudo pacman -S gucharmap
+gucharmap
+gucharmap
+ls
+vim .config/polybar/config 
+vim .config/i3/config
+vim .config/i3/config
+xinput -list
+xinput -list 13
+xinput -list-prop
+xinput -list-props
+xinput -list-props 13
+man xinput
+man xinput
+optimus-manager --switch nvidia
+optimus-manager --switch intel
+cat /sys/class/power_supply/BAT0/capacity
+sudo tlp-status -s
+sudo tlp-stat -s
+sudo systemctl enable tlp
+sudo systemctl start tlp
+sudo pacman -S powertop
+sudo powertop
+sudo powertop
+reboot
+xinput -list-props 13
+vim .Xresources
+vim .config/polybar/config 
+xrdb ~/.Xresources
+xrdb ~/.Xresources
+xrdb ~/.Xresources
+vim .config/polybar/config 
+xrdb ~/.Xresources
+ls
+xrdb ~/.Xresources
+xrdb ~/.Xresources
+vim .Xresources
+xrdb ~/.Xresources
+vim .Xresources
+xrdb ~/.Xresources
+xrdb ~/.Xresources
+xrdb ~/.Xresources
+ls
+vim .config/polybar/config 
+xrdb ~/.Xresources
+vim .config/
+vim .config/polybar/config 
+vim .Xresources
+:q
+aksfnkjafaf
+lfklakfh
+cd /usr/share/rofi/themes/
+ls
+vim solarized.rasi 
+vim slate.rasi
+sudo vim slate.rasi
+ls
+vim slate.rasi
+rofi -lines 5
+rofi -run -lines 5
+rofi -show run -lines 5
+vim .config/i3/config
+i3-dmenu-desktop --dmenu='rofi -dmenu'
+i3-dmenu-desktop --dmenu='rofi -dmenu'
+sudo pacman -Syy
+pacman -S papyrus-icon-theme
+sudo pacman -S papyrus-icon-theme
+sudo pacman -S papirus-icon-theme
+vim .config/i3/config
+cd /usr/share/rofi/themes/
+ls
+sudo vim slate.rasi 
+ls
+cd /
+ls
+sudo pacman -S thunderbird
+sudo pacman -R thunderbird
+sudo pacman -S evolution
+sudo pacman -S thunderbird
+sudo pacman -S mailspring
+yay -S mailspring
+sudo pacman -S libsecret
+vim .xinitrc 
+sudo pacman -S gnome-keyring
+xprop
+xprop
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+sudo pacman -S mupdf
+cd .cono
+cd .config/
+ls
+sudo pacman -S mupdf
+mupdf
+ls
+cd Downloads/
+ls
+ls
+mupdf dummy.pdf 
+xdg-settings get default-web-browser
+xdg-settings get default-pdf-reader
+xdg-settings --list
+man xdg-mime
+ls
+s
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+vim 
+cd .vim
+sl
+ls
+cd ..
+ls
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+sudo pacman -S xclip
+ls
+cd /
+cd ~
+vim .vimrc 
+vim 
+ls
+vim 
+ls
+vim .Xresources
+cd .config/ranger/
+ls
+vim rc.conf
+cd ~
+ranger
+yay -S rxvt-unicode-pixbuf
+ranger
+ls
+ranger
+ranger
+vim .Xresources
+xrdb ~/.Xresources
+vim .Xresources
+xrdb ~/.Xresources
+ls
+ls
+vim todo 
+cd build/
+ls
+cd ~
+vim .config/i3/config
+ls
+pip3 install i3ipc

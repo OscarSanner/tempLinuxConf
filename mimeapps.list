@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/mailspring=mailspring.desktop
+
+[Added Associations]
+text/calendar=code-oss.desktop;
+text/csv=code-oss.desktop;firefox.desktop;
+application/pdf=mupdf.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop;

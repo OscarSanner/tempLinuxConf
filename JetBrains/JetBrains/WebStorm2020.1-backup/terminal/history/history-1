@@ -1,0 +1,500 @@
+git clone  https://github.com/OlofSjogren/chrooms.git
+ls
+cd chrooms/
+ls
+ls
+npm install
+ls
+npm run dev
+npm run dev
+npm run dev
+ls
+cd GitProjects/
+ls
+cd chrooms/
+ls
+mkdir api
+cd api
+ls
+vim test.ts
+npm -i -D @vercel.node
+npm i -D @vercel.node
+bluetoothctl
+xprop
+git add .
+git add .
+npm run dev
+npm i -D @vercel/node
+git -am "added api test file"
+git commit -am "added api test file"
+git push
+git add .
+git status
+git commt -m "fixed last push"
+git commit -m "fixed last push"
+git push
+git add .
+git commit -m "added date.py"
+git push
+git push
+git git add .
+git add .
+git commit -m "testing download feature "
+git push
+git commit -m "fixed python test script"
+git add .
+git commit -m "fixed python test script"
+git push
+npm run dev
+npm run dev
+git add .
+git commit -m "minor fix on python file"
+git push
+git add .
+git commit -m "moved function in python script"
+git push
+ls
+cd GitProjects/chrooms/
+git checkout -b new-feature
+ls
+vim README.md 
+mkdir experimental
+cd experimental/
+vim something.py
+git add .
+git commit -m "initial commit for new branch"
+git push
+git push --set-upstream origin new-feature
+ls
+vim something.py 
+git add .
+git commit -m "initial commit for new branch"
+git push --set-upstream origin new-feature
+sudo pacman -S virtualbox
+ls
+cd ~/.config/i3/config
+vim ~/.config/i3/config
+sudo /sbin/vboxconfig/
+reboot
+sudo pacman -S virtualbox
+sudo pacman -R virtualbox
+sudo pacman -S virtualbox
+sudo pacman -S virtualbox-host-modules-arch
+reboot
+cd sbin
+cd /sbin
+./vboxconfig
+sudo pacman -R virtualbox
+sudo pacman -R virtualbox
+sudo pacman -R virtualbox-host-modules-arch
+sudo pacman -S virtualbox
+reboot
+ls /var/log/
+uname -r
+ls -l /lib/modules/5.7.2-arch1-1/
+cd /lib/modules/5.7.2-arch1-1/
+ls -l
+cd kernel/
+ls
+cd ..
+cd extramodules/
+ls
+cd ..
+ls
+cd /sbin
+ls
+ls | grep vbox
+./rcvboxdrv 
+sudo ./rcvboxdrv 
+uname -r
+sudo pacman -S linux572-virtualbox-host-modules
+ls
+cd /lib/modules/5.7.2-arch1-1/
+cd ..
+ls
+cd 5.7.4-arch1-1/
+ls
+cd extramodules/
+ls
+pacman -Syu
+sudo pacman -Syu
+reboot
+find .vimrc
+whereis -r / .vimrc
+whereis / .vimrc
+ls / -ra | grep .vimrc
+sudo ls / -a | grep .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim
+sudo pacman -S vundle
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+ls
+cd .vim/bundle/
+ls
+cd ~
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim +PluginInstall +qall
+vim .vimrc 
+vim +PluginInstall +qall
+ls
+cd .vim/bundle/
+ls
+sudo pacman -S python python-dev
+ls
+~
+cd ~
+cd build/
+cd ..
+mkdir ycm_build
+cd ycm_build/
+cmake -G "<generator>" . ~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp
+cmake -G "Unix Makefiles" . ~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp
+ls
+cmake --build . --target ycm_core --config Release
+sudo pacman -S watchdog
+ls
+cd ~/.vim/bundle/
+sudo pacman -S xbuild go
+pacman -S mono
+sudo pacman -S mono
+ls
+cd YouCompleteMe/
+ls
+./ install.py 
+./install.py 
+./install.py -all
+./install.py --all
+ls
+vim install.py 
+vim test.java
+ls
+ls
+ls
+cd ~/GitProjects/Java/
+ls
+git clone https://github.com/OscarSanner/Dengine.git
+ls
+cd Dengine/
+ls
+vim ~/.vimrc 
+vim +PluginInstall +qall
+ls
+touch pom.xml
+vim pom.xml 
+cd ~/WebstormProjects/learnNode1/
+ls
+vim jsconfig.json
+vim index.js 
+npm install -g typescript
+npm install typescript
+vim jsconfig.json
+vim index.js 
+vim jsconfig.json
+mkdir src
+cd src/
+vim test.js
+sudo npm install -g typescript
+vim test.js
+vim test.js
+cd ~
+cd .vim
+cd bundle/
+ls
+cd YouCompleteMe/
+ls
+cd third_party/
+ls
+ls
+cd ..
+ls
+./install.py --ts-completer
+ls
+cd ~/WebstormProjects/
+ls
+cd learnNode1/
+ls
+cd src/
+ls
+vim test.js
+cd ..
+ls
+vim jsconfig.json 
+cd src/
+vim test.js
+ls
+cd /home/oscar/.vim/bundle/YouCompleteMe/third_party/ycmd/
+ls
+cd third_party/
+ls
+rmdir -fr tern_runtime/
+rmdir -r tern_runtime/
+rm -dfr tern_runtime/
+cd WebstormProjects/learnNode1/
+ls
+node index.js 
+node index
+node index
+ls
+ls
+cd WebstormProjects/learnNode1
+mkdir WebstormProjects/learnNode1
+cd WebstormProjects/learnNode1/
+ls
+node
+ls
+npm init
+ls
+vim package.json 
+vim 
+vim 
+vim 
+vim index.js 
+vim index.js 
+vim index.js 
+node 
+cd pullreq/
+ls
+cd polybar-optimus-manager/
+ls
+cd ..
+ls
+vim ~/scripts/polybar-wip-scripts/
+cd ~/scripts/polybar-wip-scripts/
+ls
+vim info-optimus-manager.sh 
+vim .config/polybar/info-optimus-manager.sh 
+ls
+cd .vim/pack/vendor/start/
+ls
+git clone https://github.com/pangloss/vim-javascript.git
+ls
+vim test.java
+cd ~/WebstormProjects/learnNode1/
+ls
+cd src/
+s
+vim test.js
+vim test.py
+ls
+cd ~/pullreq/
+ls
+cd polybar-scripts/
+ls
+cd polybar-scripts/
+ls
+cd info-optimus-manager/
+ls
+vim info-optimus-manager.sh 
+vim pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/info-optimus-manager.sh 
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+vim info-optimus-manager.sh 
+notepadqq info-optimus-manager.sh 
+ls
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+optimus-manager --print-mode
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+./info-optimus-manager.sh 
+vim info-optimus-manager.sh 
+cp info-optimus-manager.sh info-optimus-manager-experimental.sh 
+vim info-optimus-manager-experimental.sh 
+optimus-manager --print-mode
+optimus-manager --print-mode
+ls
+optimus-manager --print-mode | awk '{ print $NF}'
+optimus-manager --print-mode | awk '{ print $NF }'
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+./info-optimus-manager.sh 
+bash -x ./info-optimus-manager.sh 
+bash -x ./info-optimus-manager-experimental.sh 
+bash -x ./info-optimus-manager-experimental.sh 
+bash -x ./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+bash -x ./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+bash -x ./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh
+bash -x ./info-optimus-manager-experimental.sh 
+bash -x ./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh
+./info-optimus-manager-experimental.sh
+notepadqq ./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+./info-optimus-manager-experimental.sh
+vim ./info-optimus-manager-experimental.sh 
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+vim ./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+notepadqq ./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh --switch
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+vim info-optimus-manager-experimental.sh 
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+./info-optimus-manager-experimental.sh 
+./info-optimus-manager-experimental.sh --switch
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+rm info-optimus-manager.sh 
+mv info-optimus-manager-experimental.sh info-optimus-manager.sh
+vim info-optimus-manager.sh 
+ls
+cd ~/.config/polybar/
+vim info-optimus-manager.sh 
+vim config 
+ls
+vim .config/polybar/config 
+vim .config/polybar/config 
+node
+vim .config/polybar/config 
+notepadqq .config/polybar/config 
+notepadqq .config/polybar/config 
+ls
+cd pullreq/polybar-scripts/polybar-scripts/info-optimus-manager/
+ls
+clear
+ls
+ls
+vim info-optimus-manager.sh 
+ls
+git add .
+notepadqq info-optimus-manager.sh 
+git commit -m "info-optimus-manager: Made script fully POSIX compliant"
+git pull
+ls
+cp info-optimus-manager.sh ~
+git fetch upstream
+git fetch https://github.com/polybar/polybar-scripts.git
+ls
+vim info-optimus-manager.sh 
+git push origin master
+ls
+optimus-manager --print-mode 
+ls
+vim temp
+vim temp.sh 
+ls
+ranger
+ls
+journalctl -xe
+node
+sudo pacman -S steam
+yay -S steam
+sudo pacman -S nmap
+nmap -sC -sV -T3 192.168.0.43
+nmap -sC -sV -T3 192.168.0.43 -Pn
+ls
+sudo pacman -S steam
+vim /etc/pacman.conf 
+sudo vim /etc/pacman.conf 
+sudo pacman -S steam
+pacman -Sy
+sudo pacman -Sy
+sudo pacman -S steam
+ls
+vim .config/i3/config
+node --version
+vim .config/i3/config
+ping google.com
+cd WebstormProjects/learnNode1/
+ls
+node index.js 
+node index.js 
+node index.js 
+node index.js 
+touch logger.js
+touch logger.js
+node index.js 
+node index.js 
+node index.js 
+touch internalModules.js
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+node internalModules.js 
+cd WebstormProjects/learnNode1/
+ls
+mkdir rps
+cd r
+cd rps/
+ls
+touch rockPaperSissors
+mv rockPaperSissors rockPaperSissors.js
+man nodejs
+ps -au | grep nginx
+ps -au | grep nginx
+ls
+cd /
+ls
+cd data/
+cd etc/nginx/
+ls
+ls
+cd /root/
+ls
+sudo cd /root/
+cd /
+ls
+cd root/
+sudo su
+ls
+cd etc/nginx/
+cd WebstormProjects/untitled/
+ls
+sudo cp build/ /var/www/
+sudo cp -r build/ /var/www/
+ls
+cd /var/
+mkdir www
+sudo mkdir www
+ls
+cd www
+ls
+sudo gpasswd -a oscar www-data
+ls
+cd build/
+ls
+npm create-react-app
+npx create-react-app
+cd ..
+npx create-react-app imat-react/
+npx create-react-app imat-react/
+git add .
+git init
+git add .
+ls
+rm -frd .git/
+cd imat-react/
+ls
+git init
+git add .
+npm install bootstrap --save

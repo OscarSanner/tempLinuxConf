@@ -1,0 +1,500 @@
+vim picomStart.sh 
+./picomStart.sh 
+vim .config/i3/config
+ls
+cd scripts/
+ls
+vim picomStart.sh 
+sakdm
+ls
+ls -a
+neofetch
+sudo pacman -S neofetch
+neofetch
+clear
+neofetch
+sudo pacman -S feh
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim picomStart.sh 
+cd scripts/
+vim picomStart.sh 
+cd scripts/
+vim picomStart.sh 
+cd scripts/
+vim picomStart.sh 
+cd scripts/
+vim picomStart.sh 
+feh --bg-scale /home/oscar/Pictures/wallpaper-shuttle.jpg 
+cd scripts/
+./picomStart.sh 
+vim picomStart.sh 
+cd scripts/
+./picomStart.sh 
+vim picomStart.sh 
+vim .config/i3/config
+vim .config/i3/config
+reboot
+cd VpnConfigFiles/
+cd mullvad_config_linux_se_mma/
+ls
+nano mullvad_se_mma.conf 
+sudo pacman -S networkmanager-openvpn
+mkdir VpnConfigFiles
+mv Downloads/mullvad_openvpn_linux_se_mma.zip VpnConfigFiles/
+cd VpnConfigFiles/
+ls
+unzip mullvad_openvpn_linux_se_mma.zip 
+ls
+cd mullvad_
+cd mullvad_config_linux_se_mma/
+ls
+nano mullvad_userpass.txt 
+sudo pacman -S openvpn
+cd ~
+mv Downloads/mullvad_se_mma.ovpn VpnConfigFiles/
+cd VpnConfigFiles/
+ls
+cd mullvad_config_linux_se_mma/
+ls
+sudo openvpn --config mullvad_se_mma.conf 
+sudo mv update-resolv-conf /etc/openvpn/
+sudo openvpn --config mullvad_se_mma.conf 
+sudo openvpn --config mullvad_se_mma.conf 
+sudo openvpn --config mullvad_se_mma.conf 
+openvpn --help
+sudo openvpn --config mullvad_se_mma.conf 
+ls
+sudo mv mullvad_se_mma.conf /etc/openvpn/
+mv mullvad_ca.crt /etc/openvpn/
+sudo mv mullvad_ca.crt /etc/openvpn/
+sudo mv mullvad_ca.crt /etc/openvpn/
+sudo mv mullvad_userpass.txt /etc/openvpn/
+cd /etc/openvpn/
+ls
+sudo openvpn --config mullvad_se_mma.conf 
+ls
+sudo chmod +x update-resolv-conf 
+sudo openvpn --config mullvad_se_mma.conf 
+sudo openvpn --config mullvad_se_mma.conf 
+reboot
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+yay -S spotify
+spotify --force-device-scale-factor=1.5
+spotify --force-device-scale-factor=2.0
+sudo vim /usr/share/applications/spotify.desktop 
+sudo vim /usr/share/applications/spotify.desktop 
+spotify --force-device-scale-factor=2.0
+8
+vim .config/i3/config
+ls
+cd scripts/
+vim picomStart.sh 
+vim .Xresources 
+vim .Xresources 
+vim .Xresources 
+is this dark enought
+ls
+neofetch
+caprine
+caprine
+caprine
+sudo pacman -S caprine
+sudo pacman -Syyy
+sudo pacman -Syu
+ls
+cd Downloads/
+ls
+cd ..
+neofetch
+vim .Xresources 
+ls
+ls
+ls
+ls
+ls
+cd scripts/
+ls
+vim picomStart.sh 
+cd ..
+vim .config/i3/config
+neofetch
+ls
+vim .Xresources 
+cp .Xresources .Xresources.bak
+vim .Xresources
+neofetch
+mv .Xresources .Xresources.bk
+mv .Xresources.bak .Xresources
+neofetch
+vim .Xresources
+neofetch
+ls
+vim scripts/picomStart.sh 
+vim .Xresources
+neofetch
+vim .Xresources
+vim scripts/picomStart.sh 
+vim .Xresources
+ls
+vim .Xresources
+neofetch
+ls
+vim scripts/picomStart.sh 
+vim .Xresources
+ls /
+clear
+yay -S polybar
+polybar example
+ls /usr/share/doc/polybar/
+mkdir .config/polybar
+cp /usr/share/doc/polybar/config .config/polybar/
+polybar example
+killall -q polybar
+reboot
+restart
+i3-msg restart
+ls
+cd scripts/
+ls
+touch polybarRestartScript.sh
+vim picomStart.sh 
+vim polybarRestartScript.sh 
+vim picomStart.sh 
+vim polybarRestartScript.sh 
+chmod +x polybarRestartScript.sh 
+./polybarRestartScript.sh 
+vim picomStart.sh 
+vim polybarRestartScript.sh 
+./polybarRestartScript.sh 
+./polybarRestartScript.sh 
+cd ..
+vim .config/i3/config
+cd scripts/
+vim polybarRestartScript.sh 
+cd scripts/
+ls
+./polybarRestartScript.sh 
+./polybarRestartScript.sh 
+./polybarRestartScript.sh 
+./polybarRestartScript.sh 
+cd scripts/
+ls
+vim polybarRestartScript.sh 
+mv polybarRestartScript.sh polybarRestartScript
+ls
+./polybarRestartScript 
+cd scripts/
+./polybarRestartScript 
+fc-list | grep awesome
+fc-list
+fc-list | grep Awesome
+vim .config/i3/config
+ls
+cd scripts/
+touch genI3Names
+vim genI3Names 
+chmod +x genI3Names 
+./genI3Names 
+cd scripts/
+./polybarRestartScript 
+cd scripts/
+vim polybarRestartScript 
+cd ~/.config/polybar/
+vim config 
+cd ~
+vim .config/i3/config
+cd scripts/
+ls
+vim .config/i3/config
+ls
+touch todo
+vim todo 
+vim .config/i3/config
+ls
+sudo pacman -S discord
+sudo vim /etc/tlp.conf 
+shutdown
+shutdown -n
+shutdown -help
+shutdown -
+shutdown -P
+tlp-stat
+sudo tlp-stat
+man yay
+sudo vim /etc/makepkg.conf 
+sad
+clear
+.config/
+ls
+cd .config/
+ls
+cd Unknown\ Organization/
+ls
+vim zoom.conf 
+cd ..
+ls
+vim /etc/makepkg.conf 
+ls
+vim i3/config
+yay -Syu --aur
+yay -S pycharm-proffesional
+yay -S pycharm-professional 
+yay -S minecraft-launcher
+xprop
+xprop
+xprop
+vim .config/polybar/config 
+vim .config/polybar/config 
+sudo pacman -S slack
+yay -S slack-desktop
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+cd scripts/
+ls
+./genI3Names 
+vim ../.config/i3/config
+vim .config/polybar/config 
+vim .config/i3/config
+vim .config/polybar/config 
+vim .config/polybar/config 
+vim .config/polybar/config 
+vim .config/i3/config
+optimus-manager --switch nvidia
+optimus-manager --switch intel
+ls /usr/bin/env/
+vim /usr/bin/env
+ls
+i3get -r t
+i3status
+prop -id $(xdotool getactivewindow) | grep 'WM_NAME(STRING)' | cut -d'"' -f2
+xprop -id $(xdotool getactivewindow) | grep 'WM_NAME(STRING)' | cut -d'"' -f2
+xprop -id $(xdotool getactivewindow) | grep _NET_WM_NAME | cut -d'"' -f2
+pacman -S xtitle
+sudo pacman -S xtitle
+xtitle -s
+ls
+cd scripts/
+ls
+./i3get 
+./i3get -r -t
+ls
+vim displaytitle
+chmod +x displaytitle 
+./displaytitle 
+rm displaytitle 
+cd scripts/
+./i3get -r c
+[A[B
+./i3get -r t
+vim scripts/i3get
+chmod +x i3get
+chmod +x scripts/i3get
+cd scripts/
+./i3get 
+./i3get 
+./i3get -r t
+./i3get -r t
+./i3get -r t
+ls
+cd ..
+cd /
+cd etc/
+~/scripts/./i3get 
+~/scripts/./i3get -r t
+polybar-msg hook titlehook 2
+polybar-msg hook titlehook 2
+polybar-msg hook titlehook 2
+polybar-msg hook titlehook 1
+cd ~/scripts/
+ls
+vim i3get 
+vim i3getRefined
+cd scripts/
+ls
+cd scripts/
+vim i3get 
+./i3get -r t
+pip3 install i3ipc
+sudo pacman -S pip
+sudo pacman -S pip3
+sudo pacman -S i3ipc
+pip install i3ipc
+python-pip install i3ipc
+python-pip
+sudo pacman -S python-pip
+pip install i3ipc
+cd scripts/
+./i3get 2>&1 | head -n 1
+./i3get -r t 2>&1 | head -n 1
+./i3get -r t 2>&1 | head -n 1
+./i3get -r t 2>&1 | head -n 1
+polybar-msg hook titlehook 1
+polybar-msg hook titlehook 1
+ls
+cd i3WindowListener/
+ls
+chmod +x Listener.py 
+./Listener.py 
+./Listener.py 
+./Listener.py 
+./Listener.py 
+vim .config/polybar/config 
+ls
+cd scripts/
+ls
+mv i3WindowListener/Listener.py windowlistener.py
+./windowlistener.py 
+rm -fd scripts/i3WindowListener/
+rm -fdr scripts/i3WindowListener/
+cd /
+cd ~
+vim .config/i3/config
+ls
+vim java_error_in_PYCHARM_76719.log 
+rm java_error_in_PYCHARM_76719.log 
+ls
+ls scripts/
+vim .config/polybar/config 
+vim .config/polybar/config 
+vim .config/i3/config
+xprop
+git pull
+git stash
+git pull
+vim .config/i3/config
+vim .config/polybar/config 
+vim .config/i3/config
+vim .Xresources
+vim .config/i3/config
+vim .config/polybar/config 
+sudo pacman -S ranger
+sudo pacman -S ranger
+ranger
+vim .config/i3/config
+sudo pacman -S glib
+gobject-introspection
+sudo pacman -S gobject-introspection
+sudo clion
+yay -S glib
+sudo pacman -S lib32-glibc
+ls
+touch temp.c
+vim temp.c 
+gcc -o example example.c $(pkg-config --libs --cflags i3ipc-glib-1.0)
+gcc -o temp temp.c $(pkg-config --libs --cflags i3ipc-glib-1.0)
+ls
+locate glib.c
+yay -S clion
+sudo pacman -S gcc
+sudo pacman -S cmake
+sudo pacman -S gdb
+ls
+cd build/
+ls
+git pull https://github.com/altdesktop/i3ipc-glib.git
+git clone https://github.com/altdesktop/i3ipc-glib.git
+ls
+cd i3ipc-glib/
+ls
+./autogen.sh 
+sudo pacman -S gtk-doc
+./autogen.sh 
+./autogen.sh 
+make
+make uninstall
+sudo make install
+sudo pacman -S glib
+sudo pacman -S g-lib
+sudo pacman -S glib2
+cd /usr/local/include/i3ipc-glib/
+sudo vim i3ipc-con.h 
+cd /usr/local/include/i3ipc-glib/
+sudo vim i3ipc-con.h 
+reboot
+gcc -o temp temp.c $(pkg-config --libs --cflags i3ipc-glib-2.0)
+gcc -o temp temp.c $(pkg-config --libs --cflags i3ipc-glib-1.0)
+ls
+cd build/i3ipc-glib/
+make uninstall
+sudo make uninstall
+cd ~
+mv Downloads/i3ipc-0.6.0.tar.gz build/
+cd build/
+ls
+tar -xvf i3ipc-0.6.0.tar.gz 
+ls
+cd i3ipc-0.6.0
+ös
+ls
+ls -a
+cd i3ipc-glib/
+ls
+cd ..
+ls
+cd build/
+ls
+cd autotools/
+ls
+cd ..
+sudo pacman -S autotools
+cd ~
+sudo pacman -S autotools
+ls
+cd build/
+ls
+cd i3ipc-0.6.0
+ls
+cd build/
+ls
+cd ..
+ls
+make install
+cd build/
+make install
+cd ..
+ls
+cd configure
+vim Makefile.am 
+vim Makefile.in
+autoreconf --install
+./configure 
+make
+sudo make uninstall
+sudo make install
+cd ~
+ls
+gcc -o temp temp.c $(pkg-config --libs --cflags i3ipc-glib-1.0)
+ls
+cd build/
+ls
+cd i3ipc-0.6.0
+ls
+cd build/
+ls
+cd autotools/
+ls
+cd ..
+ls
+ls -a
+cd ..
+ls
+cd i3ipc-glib/
+ls
+gcc -o temp temp.c $(pkg-config --libs --cflags i3ipc-glib-1.0)
+echo $PKG_CONFIG_PATH
+export PKG_CONFIG_PATH=/home/oscar/build/i3ipc-0.6.0/i3ipc-glib/
+ls
+gcc -o main main.c $(pkg-config --libs --cflags i3ipc-glib-1.0)
+./main 
+sudo find / libi3ipc-glib-1.0.so.0
+./main 
+sudo find / libi3ipc-glib-1.0.so
+sudo find / libi3ipc-glib-1.0

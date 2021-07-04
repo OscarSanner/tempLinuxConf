@@ -1,0 +1,500 @@
+yay -S
+yay -Suy
+yay -S polybar
+ls
+./polybarRestartScript 
+ls
+cd WebstormProjects/
+ls
+cd vanillaHtmlCss/
+ls
+live-server
+ssh
+nmap -p
+nmap -pS 
+nmap 192.168.0.0/24
+nmap -sP -n 192.168.0.0/24
+sudo pacman -S
+sudo pacman -S sshd
+sudo pacman -S openssh
+sshd
+sshd -t
+systemctl enable sshd.service
+systemctl start sshd.service
+ls
+ls
+ls
+cd todo 
+mkdir test
+cd test/
+ls
+ls
+rm lalalalalala 
+cd ..
+rm test/
+rm -d test/
+ls
+ls
+nmap -sP -n 192.168.0.0/24
+ls
+mkdir hackaAlbin
+cd hackaAlbin/
+git clone https://github.com/gkbrk/slowloris.git
+ls
+cd slowloris/
+ls
+./slowloris.py https://quote.riddle.nu/
+vim slowloris.py 
+vim slowloris.py 
+./slowloris.py https://quote.riddle.nu/
+vim slowloris.py 
+./slowloris.py https://quote.riddle.nu/
+ls
+./slowloris.py quote.riddle.nu
+ls
+reboot
+ls
+minecraft
+spotify
+ls
+a
+ls
+cd WebstormProjects/
+cd vanillaHtmlCss/
+ls
+live-server
+live-server
+node live-server
+sudo live-server
+lsa
+ls
+cd 
+ls
+cd pullreq/
+ls
+cd polybar-scripts/
+git pull
+cd ~
+cd test/
+touch lalalalalala
+ls
+cd hackaAlbin/
+ls
+cd slowloris/
+ls
+vim slowloris.py
+./slowloris.py quote.riddle.nu
+vim slowloris.py
+./slowloris.py quote.riddle.nu
+vim slowloris.py
+./slowloris.py quote.riddle.nu
+./slowloris.py riddle.nu
+vim slowloris.py
+./slowloris.py -p 443 riddle.nu
+ssh albin@riddle.nu
+ssh asdd@riddle.nu
+hwclock --show
+sudo hwclock --show
+sudo hwclock --show
+sudo hwclock --systohc
+sudo hwclock --show
+timedatectl
+sudo hwclock --debug
+sudo hwclock --verbose
+sudo pacman -S ntpd
+sudo pacman -S ntp
+systemctl enable ntpd.service
+systemctl start ntpd.service
+datetimectl
+datetime
+ssh riddle.nu
+ssh riddle.nu
+nmap -v riddle.nu
+nmap -v qoute.riddle.nu
+nmap -sV --script=rdp-vuln-ms12-020 -p 3389 riddle.nu
+nmap -sV --script=rdp-vuln-ms12-020 vulns.showall  -p 3389 riddle.nu
+nmap --script "rdp-enum-encryption or rdp-vuln-ms12-020 or rdp-ntlm-info" -p 3389 -T4 riddle.nu
+nmap -v riddle.nu
+ssh albin@riddle.nu -p 222
+ssh albin@riddle.nu -p 222 -v
+ssh riddle@riddle.nu -p 222 -v
+ssh -v -C -A -X -p 222 riddle.nu
+nmap riddle.nu
+nmap riddle.nu -v
+nmap -p- riddle.nu
+caprine
+reboot
+hwclock --show
+sudo hwclock --show
+timedatectl set-local-rtc 0
+timedatectl set-local-rtc 0
+i3lock
+i3lock
+i3lock
+yay -S i3lock-fancy-git
+i3lock-fancy
+i3lock-fancy
+i3lock-fancy -g
+i3lock-fancy -p
+i3lock
+i3lock-fancy -p
+i3lock-fancy 
+i3lock -i ~/Pictures/minimalistic-wallpaper-blue-lake.jpg 
+i3lock -i ~/Pictures/minimalistic-wallpaper-blue-lake.jpg
+gimp Pictures/minimalistic-wallpaper-blue-lake.jpg 
+hwclock --systohc
+sudo hwclock --systohc
+hwclock --show
+sudo hwclock --show
+reboot
+yay -S lightdm-webkit2-greeter
+sudo vim /etc/lightdm/lightdm.conf
+sudo pacman -S lightdm-webkit-theme-litarvan
+sudo vim /etc/lightdm/lightdm-webkit2-greeter.conf 
+reboot
+neofetch
+neofetch
+man xxs-lock
+man xss-lock
+sudo pacman -S xss-lock
+dm-tool lock
+dm-tool lock
+vim .config/i3/config
+exit
+cd /var/www
+ls
+cd build/
+ls
+cd ..
+ls
+who
+nmap 129.16.31.108
+nmap riddle.nu
+cd .ssh/
+ls
+cd authorized_keys 
+vim authorized_keys 
+ls
+vim authorized_keys 
+vim authorized_keys 
+cd WebstormProjects/
+ls
+ls
+cd GitProjects/
+ls
+cd chrooms/
+git pull
+git checkout master
+git pull
+ls
+rm -dr api/
+ls
+rm -dr experimental/
+rm -dr node_modules/
+rm -dr *.json
+ls
+rm -rd pages/
+rm -rd public/
+rm -rd *.md
+rm -rd *.js
+ls
+ls -a
+rm -rf .next/
+remove -rd .idea/
+ls
+ls
+ls -a
+remove -rd .idea/
+rm -rd .idea/
+ls
+ls -a
+git add .
+git commit -m "removed the things in the thing"
+git push
+git push
+mkdir JavaBackend
+mkdir WebStuff
+cd WebStuff/
+npm init
+ls
+ls
+cd ..
+ls
+rm WebStuff/
+rm -d  WebStuff/
+ls
+cd ~/D
+cd ~/Downloads/
+ls
+unzip jar_files.zip 
+ls
+cd gson-2.8.2.jar 
+mv gson-2.8.2.jar ../GitProjects/chrooms/JavaBackend/
+cd ~/GitProjects/chrooms/
+git add .
+git commit -m "second first chroom meeting. Got lots of code written in different languages, very cool. We managed to generate a proof of concept kind of json file with info about different rooms, we also wrote server. Initiated react app. Basically refactored the whole project. If you can call purging an entire codebase and rewriting a new one 'refactoring'. All old code is nulliied. I think you, the reader of this commit-message, is beggining to see the scope of what has occured. The cogwheels of time have been set in motion, the chroom is ineviteble. "
+git push 
+cd ~
+vim .config/i3/config
+:q
+npm -i express
+npm install express
+ls
+cd ServerAPI/
+node server.js 
+node server.js 
+node server.js 
+node nodemon server.js 
+nodemon server.js 
+vim .config/i3/config
+xprop
+xprop
+nmap -T4 -A -p- riddle.nu
+nmap -sU -T4 riddle.nu
+sudo nmap -sU -T4 riddle.nu
+sudo nmap -A -p135,136,137,138,139 -sU -T4 riddle.nu
+nmap -p 443 --script=ssl-enum-ciphers
+nmap -p 443 --script=ssl-enum-ciphers riddle.nu
+ls /usr/share/nmap/scripts/
+ls
+git add .
+cd GitProjects/
+ls
+cd Java/
+ls
+cd .
+cd ..
+ls
+cd chrooms/
+ls
+git add .
+git commit -m "Fixes latest issue with rooms. We did alot today, it has been a journey. At the same time nothing. We would never have anticipated this. We had some nice sandwitches tho. I had one with just cheesse. Thank you for reading this. If you liked it, dont forget to hit that subsribe button and give me a thumbs up. " 
+git push
+git pull --all
+git branch -a
+git checkout fix-wrong-type
+git add .
+git commit -m "Fully fixed type issue"
+git push 
+nmap -Sp -n https://cloud.timeedit.net/chalmers_test/
+nmap https://cloud.timeedit.net/chalmers_test/
+nmap https://cloud.timeedit.net
+nmap https://cloud.timeedit.net/chalmers_test/web/?en=t
+ls
+ls
+cd GitProjects/
+ls
+cd chrooms/
+ls
+git add .
+git commit -m "create alternative link method with links only providing information about rooms for two weeks ahead. Could improve loadingtimes to cut unnecessary dates from the api and for backend"
+git config --global credential.helper store
+git push
+cd ~
+cd .git-credentials 
+vim cd .git-credentials 
+vim .git-credentials 
+ls
+cd GitProjects/
+ls
+cd chrooms/
+cd webstuff/
+ls
+cd ServerAPI/
+ls
+nodemon server.js 
+node server.js 
+nodemon server.js 
+nodemon server.js 
+nodemon server.js 
+git stash
+git pull
+nodemon server.js 
+nodemon server.js 
+pacman -S geany
+sudo pacman -S geany
+ls
+cd GitProjects/chrooms/webstuff/
+ls
+npm start
+clear
+clr
+clear
+cd ls
+sl
+ls
+cd GitProjects/chrooms/webstuff/ServerAPI/
+clear
+ls
+clear
+nodemon server.js 
+ls
+cd scripts/
+ls
+vim deploy.sh 
+chmod +x deploy.sh 
+vim deploy.sh 
+./deploy.sh 
+cd scripts/
+ls
+./deploy.sh 
+vim deploy.sh 
+./deploy.sh 
+d
+a
+vim deploy.sh 
+./deploy.sh 
+asd
+f
+a
+./deploy.sh 
+./deploy.sh 
+./deploy.sh 
+./deploy.sh 
+./deploy.sh 
+./deploy.sh 
+./deploy.sh 
+git config --global pull.rebase false
+./deploy.sh 
+cd /etc/nginx/
+vim nginx.conf 
+sudo vim nginx.conf 
+sudo cp nginx.conf nginx.conf.default
+sudo vim nginx.conf 
+nginx -s reload
+sudo nginx -s reload
+sudo vim nginx.conf 
+xprop
+reboot
+cd GitProjects/
+ls
+cd chrooms/
+ls
+cd webstuff
+npm start
+cd GitProjects/
+cd chrooms/
+cd webstuff/
+npm start
+cd /etc/nginx/
+ls
+vim nginx.conf
+ls
+vim mime.types 
+vim nginx.conf
+cd GitProjects/
+ls
+cd chrooms/webstuff/
+npm start
+ls
+ping google.com
+ping www.google.com
+ping google.com
+ping google.com
+reboot
+node
+cd /etc/openvpn/client/
+sudo cd /etc/openvpn/client/
+ls
+sudo cd /etc/openvpn/client/
+sudo su
+cd scripts/
+ls
+./deploy.sh 
+./deploy.sh 
+./deploy.sh 
+ls
+cd ~
+ls
+cd Do
+cd Downloads/
+ls
+cd ..
+ls -a
+cd .local/
+ls
+cd share/
+ls
+cd ..
+cd lib/
+ls
+cd ~
+ls
+sudo pacman -Syu
+reboot
+sudu su
+su
+sudo su
+sudo openvpn /etc/openvpn/mullvad_se_mma.conf 
+sudo openvpn nohup /etc/openvpn/mullvad_se_mma.conf 
+sudo openvpn --config /etc/openvpn/mullvad_se_mma.conf 
+ls
+sudu su
+sudo su
+cd /etc/
+cd openvpn/
+ls
+openvpn --config mullvad_se_mma.conf 
+cd /etc/
+cd openvpn/
+openvpn --config mullvad_se_mma.conf 
+sudo openvpn --config mullvad_se_mma.conf 
+bg
+sudo openvpn --config mullvad_se_mma.conf 
+reboot
+cd GitProjects/chrooms/webstuff/ServerAPI/
+nodemon server.js 
+cd  GitProjects/chrooms/
+cd we
+cd webstuff/
+ls
+git fetch
+git checkout origin master -- ServerAPI/server.js 
+git checkout origin/master -- ServerAPI/server.js 
+git branch
+git add .
+git commit -m "revert server.js to master"
+git push
+sudo pacman -S signal
+sudo pacman -S signal-desktop
+cd GitProjects/
+cd chrooms/webstuff/
+cd ..
+git add .
+git commit -m "added few lines to server"
+git push
+git checkout fix-wrong-type
+git reset d3f57e3 webstuff/ServerAPI/server.js 
+git reset --hard d3f57e3 webstuff/ServerAPI/server.js 
+git stash
+git reset --hard d3f57e3 webstuff/ServerAPI/server.js 
+git reset d3f57e3 webstuff/ServerAPI/server.js 
+git reset d3f57e3 webstuff/ServerAPI/server.js 
+vim webstuff/ServerAPI/server.js 
+ls
+cd webstuff/
+ls
+nodemon ServerAPI/server.js 
+nodemon ServerAPI/server.js 
+git branch
+nodemon ServerAPI/server.js 
+ls
+cd ..
+ls
+cd ..
+ls
+git clone https://github.com/derickfelix/GreatSpace.git
+ls
+cd GreatSpace/
+ls
+ls
+cd GitProjects/chrooms/webstuff/ServerAPI/
+nodemon server.js 
+git checkout master
+git pull 
+git pull
+git pull
+git stash
+git pull
+git stash
+git pull

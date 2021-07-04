@@ -1,0 +1,500 @@
+ping google.com
+ping google.com
+ping google.com
+ping google.com
+ping google.com
+ping google.com
+ping google.com
+ping google.com
+ping google.com
+ping google.com
+ping google.com -c 3
+ping google.com
+ls
+cd WebstormProjects/
+ls
+cd learnNode1/
+ls
+rm -frd rps/
+touch server.js
+node server.js 
+ls
+npm build
+ls
+ls
+cd ..
+ls
+cd untitled/
+s
+ls
+npm build
+npm run build
+ls
+cd build/
+ls
+pacman -S nginx-mainline
+sudo pacman -S nginx-mainline
+ls
+cd ~
+vim REMEMBER
+cd WebstormProjects/untitled/build/
+ls
+systemctl enable nginx.service
+systemctl start nginx.service
+ls
+cd /etc/nginx/
+ls
+vim nginx.conf 
+cd ~/WebstormProjects/learnSomeReact/
+ls
+npx http-server
+npm create-react-app
+npx create-react-app
+cd ..
+npx create-react-app imat-react/
+npx create-react-app imat-react/
+git add .
+git init
+git add .
+ls
+rm -frd .git/
+cd imat-react/
+ls
+git init
+git add .
+npm install bootstrap --save
+cd GitProjects/
+ls
+cd chrooms/
+ls
+npm run build
+ls
+cd experimental/
+ls
+cd ..
+ls
+cd pages/
+ls
+cd api/
+ls
+cd ..
+cd ..
+ls
+cd public/
+ls
+ls
+cd ..
+ls
+cd ...
+cd ..
+ls
+cd ..
+ls
+cd WebstormProjects/untitled/
+ls
+vim package.json 
+ls
+cd node_modules/
+ls
+cd react-scripts/
+ls
+cd scripts/
+ls
+vim build.js 
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+cd .
+cd ..
+ls
+cd learnNode1/
+ls
+ls
+cd ..
+ls
+mkdir learnSomeReact
+cd learn
+cd learnSomeReact/
+ls
+touch index.html
+node init
+touch index.html
+vim index.html 
+ls
+rm index.html 
+ls
+npx create-react-app simple-todo-app
+npx create-react-app simple-todo-app
+ls
+cd simple-todo-app/
+ls
+ls
+cd src/
+ls
+mkdir components
+cd components/
+touch TodoContainer.js,Header.js,InputTodo.js,TodosList.js,TodoItem.js
+ls
+vim rm TodoContainer.js,Header.js,InputTodo.js,TodosList.js,TodoItem.js 
+ls
+rm TodoContainer.js,Header.js,InputTodo.js,TodosList.js,TodoItem.js 
+touch TodoContainer.js, Header.js, InputTodo.js, TodosList.js, TodoItem.js
+ls
+rm TodoContainer.js, Header.js, InputTodo.js, TodosList.js, TodoItem.js
+rm TodoContainer.js Header.js InputTodo.js TodosList.js TodoItem.js
+touch TodoContainer.js Header.js InputTodo.js TodosList.js TodoItem.js
+ls
+vim TodoContainer.js 
+vim TodoContainer.js 
+ls
+cd ..
+ls
+npm start
+ls
+cd ~/GitProjects/chrooms/
+ls
+ls -a
+cd .next/
+ls
+cd server/
+ls
+cd ..
+ls
+cd static/
+ls
+cd ..
+ls
+cd server/
+ls
+ls
+start
+node start
+cd ..
+cd ..
+ls
+next start
+node start
+cd .next/
+node start
+ls
+cd ..
+ls
+node run start
+node run-start
+npm run start
+ls
+cd ..
+ls
+cd ..
+cd GitProjects/
+ls
+mkdir iMat-React
+cd iMat-React/
+ls
+cd ..
+rmdir iMat-React/
+ls
+cd imat-react/
+ls
+ls -l
+ls
+cd ..
+l
+ls
+cd imat-react/
+lls
+ls
+npm star
+npm start
+cd GitProjects/imat-react/
+ls
+npm start
+vim /etc/host
+vim /etc/hosts
+ls
+cd WebstormProjects/
+ls
+mkdir nodeHTTPReq
+ls
+cd node
+cd nodeHTTPReq/
+ls
+node init
+npm init --yes
+ls
+touch httpreq.js
+vim httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+rm httpreq.js 
+npm i axios
+vim httpreq.js
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+ls
+cd ..
+ls
+cd reactwithapi/
+ls
+cd serv
+shnncö-.-
+cd server/
+ls
+npm i joi
+ ping google.com
+npm i joi
+npm remove joi
+npm i @hapi/joi
+ls
+cd ..
+ls
+cd ..
+ls
+cd nodeHTTPReq/
+ls
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+vim httpreq.js 
+vim httpreq.js 
+node httpreq.js 
+node httpreq.js 
+node httpreq.js 
+ls
+cd GitProjects/
+ls
+cd imat-react/
+ls
+npm start
+vim package.json 
+ls
+cd .
+cd ..
+ls
+cd .
+cd .
+ls
+cd ..
+ls
+cd WebstormProjects/
+ls
+mkdir reactWithApi
+ls
+rmdir reactWithApi/
+ls reactWithApi/
+cd react
+cd reactWithApi/
+ls
+cd ..
+rm -frd reactWithApi/
+ls
+cd reactwithapi/
+ls
+mkdir server
+cd server/
+ls
+npm init
+ls
+npm i express
+touch index.js
+ls
+node index.js 
+node index.js 
+npm install -g nodemon
+npm install nodemon
+nodemon index.js 
+node nodemon index.js 
+sudo npm install -g nodemon
+nodemon index.js 
+nodemon index.js 
+cd ..
+ls
+npm start
+ls
+cd server/
+nodemon index.js 
+cd WebstormProjects/
+ls
+cd reactwithapi/
+s
+ks
+ls
+cd s
+cd src/
+ls
+mkdir Components
+cd Components/
+ls
+cd ..
+ls
+cd ..
+ls
+npm i bootstrap-css-only
+cd ..
+ls
+cd ..
+cd GitProjects/learnReactWithMosh/
+ls
+cd src/
+ls
+vim index.js 
+cd WebstormProjects/reactwithapi/
+ls
+npm start
+cd WebstormProjects/
+cd reactwithapi/src
+ls
+cd Components/
+ls
+touch NavBar.js
+cd WebstormProjects/reactwithapi/
+ls
+npm start
+reboot
+cd WebstormProjects/
+ls
+cd reactwithapi/
+ls
+npm remove boostrap-css-only
+npm i bootstrap
+ npm install material-design-icons
+ npm remove material-design-icons
+ls
+mv ~/Downloads/*.svg public/
+cd public/
+ls
+mv favorite-24px.svg favorite_border-24px.svg home-24px.svg ../src/icons/
+ls
+cd ..
+ls
+mv src/icons/* public/
+ls
+cd src/
+ls
+cd Components/
+touch shoppingCart.js categories.js centerStage.js
+rm shoppingCart.js categories.js centerStage.js
+touch shoppingCart.jsx categories.jsx centerStage.jsx
+ls
+cd ..
+ls
+cd ..
+sl
+ls
+cd ..
+ls
+ls
+cd WebstormProjects/
+cd reactwithapi/
+ls
+npm start
+npm start
+npm start
+npm start
+npm start
+npm start
+[Astart
+npm start
+⇧
+firefox --start-debugger-server 3000
+node init
+npm init
+ls
+node liveServer.js 
+node liveServer.js 
+node liveServer.js 
+live-server
+live-server
+live-server
+live-server
+live-server
+live-server

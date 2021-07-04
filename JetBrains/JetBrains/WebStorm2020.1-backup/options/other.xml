@@ -1,0 +1,28 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="14.4.0" last-modified="1591170564000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Source Code Pro Medium" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GeneralSettings.initiallyConfigured" value="true" />
+    <property name="KEYMAP" value="format" />
+    <property name="MarketplacePluginsSearchHistory" value="theme&#10;the&#10;React&#10;Reac&#10;R" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="WS-201.7846.79-28759a23b582b5338eff5942d35b3ada0b7c3de14adbad0585e3ae8504ad5a32" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.201" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/GitProjects/iMat-React&#10;/home/oscar/WebstormProjects/learnSomeReact/simple-todo-app&#10;/home/oscar/WebstormProjects/learnSomeReact&#10;/home/oscar/WebstormProjects/learnNode1&#10;/home/oscar/WebstormProjects/untitled&#10;/home/oscar/GitProjects/chrooms" />
+    <property name="file.gist.reindex.count" value="4197" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/GitProjects/iMat-React" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

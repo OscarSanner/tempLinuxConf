@@ -1,0 +1,500 @@
+xrdb ~/.Xresources
+vim .Xresources
+xrdb ~/.Xresources
+xrdb ~/.Xresources
+xrdb ~/.Xresources
+ls
+vim .config/polybar/config 
+xrdb ~/.Xresources
+vim .config/
+vim .config/polybar/config 
+vim .Xresources
+:q
+aksfnkjafaf
+lfklakfh
+cd /usr/share/rofi/themes/
+ls
+vim solarized.rasi 
+vim slate.rasi
+sudo vim slate.rasi
+ls
+vim slate.rasi
+rofi -lines 5
+rofi -run -lines 5
+rofi -show run -lines 5
+vim .config/i3/config
+i3-dmenu-desktop --dmenu='rofi -dmenu'
+i3-dmenu-desktop --dmenu='rofi -dmenu'
+sudo pacman -Syy
+pacman -S papyrus-icon-theme
+sudo pacman -S papyrus-icon-theme
+sudo pacman -S papirus-icon-theme
+vim .config/i3/config
+cd /usr/share/rofi/themes/
+ls
+sudo vim slate.rasi 
+ls
+cd /
+ls
+sudo pacman -S thunderbird
+sudo pacman -R thunderbird
+sudo pacman -S evolution
+sudo pacman -S thunderbird
+sudo pacman -S mailspring
+yay -S mailspring
+sudo pacman -S libsecret
+vim .xinitrc 
+sudo pacman -S gnome-keyring
+xprop
+xprop
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+sudo pacman -S mupdf
+cd .cono
+cd .config/
+ls
+sudo pacman -S mupdf
+mupdf
+ls
+cd Downloads/
+ls
+ls
+mupdf dummy.pdf 
+xdg-settings get default-web-browser
+xdg-settings get default-pdf-reader
+xdg-settings --list
+man xdg-mime
+ls
+s
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+vim 
+cd .vim
+sl
+ls
+cd ..
+ls
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+sudo pacman -S xclip
+ls
+cd /
+cd ~
+vim .vimrc 
+vim 
+ls
+vim 
+ls
+vim .Xresources
+cd .config/ranger/
+ls
+vim rc.conf
+cd ~
+ranger
+yay -S rxvt-unicode-pixbuf
+ranger
+ls
+ranger
+ranger
+vim .Xresources
+xrdb ~/.Xresources
+vim .Xresources
+xrdb ~/.Xresources
+ls
+ls
+vim todo 
+cd build/
+ls
+cd ~
+vim .config/i3/config
+ls
+pip3 install i3ipc
+mv Downloads/bootstrap-4.5.0-dist.zip WebstormProjects/vanillaHtmlCss/res/
+cd WebstormProjects/
+ls
+mkdir anotherTryAtReact
+cd anotherTryAtReact/
+cd ..
+mv -d anotherTryAtReact/ anothertryatreact
+mv anotherTryAtReact/ anothertryatreact
+ls
+ping google.com
+cd ..
+ls
+cd WebstormProjects/
+ls
+cd vanillaHtmlCss/
+ls
+mkdir res
+cd res/
+unzip bootstrap-4.5.0-dist.zip 
+ls
+rm bootstrap-4.5.0-dist.zip 
+cd bootstrap-4.5.0-dist/
+ls
+cd css
+ls
+cd ..
+cd ..
+ls
+cd ..
+ls
+ls
+cd ~
+ls
+vim todo 
+cd pullreq/
+ls
+cd polybar-
+cd polybar-scripts/
+ls
+git pull
+ls
+cd polybar-scripts/
+ls
+cd info-optimus-manager/
+ls
+vim info-optimus-manager.sh 
+cd .config/polybar/config 
+vim .config/polybar/config 
+vim .config/polybar/config 
+vim .config/polybar/config 
+cd pullreq/polybar-scripts/polybar-scripts/
+cd info-optimus-manager/
+ls
+vim info-optimus-manager.sh 
+vim .config/polybar/config 
+cd pullreq/
+ls
+cd polybar-scripts/
+cd polybar-scripts/
+cd info-optimus-manager/
+ls
+git add .
+git commit -m "remove unnecessary eval statement"
+git push
+ls
+vim .config/polybar/config 
+vim .config/polybar/config 
+vim .config/polybar/config 
+cd pullreq/
+cd polybar-scripts/polybar-scripts/info-optimus-manager/
+vim README.md 
+git add .
+git commit -m "change README.md so that the user by default has to right click to trigger gpu switching. This is safer as it's not easily done by accident"
+git push
+ls
+mv mv info-optimus-manager.sh system-gpu-optimus.sh
+mv info-optimus-manager.sh system-gpu-optimus.sh
+ls
+cd ..
+ls
+mv info-optimus-manager/ system-gpu-optimus
+ls
+cd system-gpu-optimus/
+ls
+vim README.md 
+ls
+git add .
+git commit -m "Change name of info-optimus-manager to system-gpu-optimus"
+git push
+cd pullreq/
+ls
+cd polybar-scripts/polybar-scripts/system-gpu-optimus/
+ls
+git pull
+ls
+vim system-gpu-optimus.sh 
+ls
+cd ~
+vim .config/polybar/config 
+ls
+cd pullreq/
+cd polybar-scripts/
+cd polybar-scripts/
+ls
+cd system-gpu-
+cd system-gpu-optimus/
+ls
+chmod +x system-gpu-optimus.sh 
+ls
+ip
+ifconfig wlan0|grep inet
+nmap -sP -n 192.168.0.0/24|grep ^Host 
+nmap -sP -n 192.168.0.0/24
+nmap 192.168.0.0/24
+sudo pacman -Syu
+reboot
+vim .config/polybar/config 
+cd .config/polybar/
+cp config config.bak
+ls
+cd scripts/
+ls
+./polybarRestartScript 
+yay -S
+yay -Suy
+yay -S polybar
+ls
+./polybarRestartScript 
+ls
+cd WebstormProjects/
+ls
+cd vanillaHtmlCss/
+ls
+live-server
+ssh
+nmap -p
+nmap -pS 
+nmap 192.168.0.0/24
+nmap -sP -n 192.168.0.0/24
+sudo pacman -S
+sudo pacman -S sshd
+sudo pacman -S openssh
+sshd
+sshd -t
+systemctl enable sshd.service
+systemctl start sshd.service
+ls
+ls
+ls
+cd todo 
+mkdir test
+cd test/
+ls
+ls
+rm lalalalalala 
+cd ..
+rm test/
+rm -d test/
+ls
+ls
+nmap -sP -n 192.168.0.0/24
+ls
+mkdir hackaAlbin
+cd hackaAlbin/
+git clone https://github.com/gkbrk/slowloris.git
+ls
+cd slowloris/
+ls
+./slowloris.py https://quote.riddle.nu/
+vim slowloris.py 
+vim slowloris.py 
+./slowloris.py https://quote.riddle.nu/
+vim slowloris.py 
+./slowloris.py https://quote.riddle.nu/
+ls
+./slowloris.py quote.riddle.nu
+ls
+reboot
+ls
+minecraft
+spotify
+ls
+a
+ls
+cd WebstormProjects/
+cd vanillaHtmlCss/
+ls
+live-server
+live-server
+node live-server
+sudo live-server
+lsa
+ls
+cd 
+ls
+cd pullreq/
+ls
+cd polybar-scripts/
+git pull
+cd ~
+cd test/
+touch lalalalalala
+ls
+cd hackaAlbin/
+ls
+cd slowloris/
+ls
+vim slowloris.py
+./slowloris.py quote.riddle.nu
+vim slowloris.py
+./slowloris.py quote.riddle.nu
+vim slowloris.py
+./slowloris.py quote.riddle.nu
+./slowloris.py riddle.nu
+vim slowloris.py
+./slowloris.py -p 443 riddle.nu
+ssh albin@riddle.nu
+ssh asdd@riddle.nu
+hwclock --show
+sudo hwclock --show
+sudo hwclock --show
+sudo hwclock --systohc
+sudo hwclock --show
+timedatectl
+sudo hwclock --debug
+sudo hwclock --verbose
+sudo pacman -S ntpd
+sudo pacman -S ntp
+systemctl enable ntpd.service
+systemctl start ntpd.service
+datetimectl
+datetime
+ssh riddle.nu
+ssh riddle.nu
+nmap -v riddle.nu
+nmap -v qoute.riddle.nu
+nmap -sV --script=rdp-vuln-ms12-020 -p 3389 riddle.nu
+nmap -sV --script=rdp-vuln-ms12-020 vulns.showall  -p 3389 riddle.nu
+nmap --script "rdp-enum-encryption or rdp-vuln-ms12-020 or rdp-ntlm-info" -p 3389 -T4 riddle.nu
+nmap -v riddle.nu
+ssh albin@riddle.nu -p 222
+ssh albin@riddle.nu -p 222 -v
+ssh riddle@riddle.nu -p 222 -v
+ssh -v -C -A -X -p 222 riddle.nu
+nmap riddle.nu
+nmap riddle.nu -v
+nmap -p- riddle.nu
+caprine
+reboot
+hwclock --show
+sudo hwclock --show
+timedatectl set-local-rtc 0
+timedatectl set-local-rtc 0
+i3lock
+i3lock
+i3lock
+yay -S i3lock-fancy-git
+i3lock-fancy
+i3lock-fancy
+i3lock-fancy -g
+i3lock-fancy -p
+i3lock
+i3lock-fancy -p
+i3lock-fancy 
+i3lock -i ~/Pictures/minimalistic-wallpaper-blue-lake.jpg 
+i3lock -i ~/Pictures/minimalistic-wallpaper-blue-lake.jpg
+gimp Pictures/minimalistic-wallpaper-blue-lake.jpg 
+hwclock --systohc
+sudo hwclock --systohc
+hwclock --show
+sudo hwclock --show
+reboot
+yay -S lightdm-webkit2-greeter
+sudo vim /etc/lightdm/lightdm.conf
+sudo pacman -S lightdm-webkit-theme-litarvan
+sudo vim /etc/lightdm/lightdm-webkit2-greeter.conf 
+reboot
+neofetch
+neofetch
+man xxs-lock
+man xss-lock
+sudo pacman -S xss-lock
+dm-tool lock
+dm-tool lock
+vim .config/i3/config
+exit
+cd /var/www
+ls
+cd build/
+ls
+cd ..
+ls
+who
+nmap 129.16.31.108
+nmap riddle.nu
+cd .ssh/
+ls
+cd authorized_keys 
+vim authorized_keys 
+ls
+vim authorized_keys 
+vim authorized_keys 
+cd WebstormProjects/
+ls
+ls
+cd GitProjects/
+ls
+cd chrooms/
+git pull
+git checkout master
+git pull
+ls
+rm -dr api/
+ls
+rm -dr experimental/
+rm -dr node_modules/
+rm -dr *.json
+ls
+rm -rd pages/
+rm -rd public/
+rm -rd *.md
+rm -rd *.js
+ls
+ls -a
+rm -rf .next/
+remove -rd .idea/
+ls
+ls
+ls -a
+remove -rd .idea/
+rm -rd .idea/
+ls
+ls -a
+git add .
+git commit -m "removed the things in the thing"
+git push
+git push
+mkdir JavaBackend
+mkdir WebStuff
+cd WebStuff/
+npm init
+ls
+ls
+cd ..
+ls
+rm WebStuff/
+rm -d  WebStuff/
+ls
+cd ~/D
+cd ~/Downloads/
+ls
+unzip jar_files.zip 
+ls
+cd gson-2.8.2.jar 
+mv gson-2.8.2.jar ../GitProjects/chrooms/JavaBackend/
+cd ~/GitProjects/chrooms/
+git add .
+git commit -m "second first chroom meeting. Got lots of code written in different languages, very cool. We managed to generate a proof of concept kind of json file with info about different rooms, we also wrote server. Initiated react app. Basically refactored the whole project. If you can call purging an entire codebase and rewriting a new one 'refactoring'. All old code is nulliied. I think you, the reader of this commit-message, is beggining to see the scope of what has occured. The cogwheels of time have been set in motion, the chroom is ineviteble. "
+git push 
+cd ~
+vim .config/i3/config
+:q
+npm -i express
+npm install express
+ls
+cd ServerAPI/
+node server.js 
+node server.js 
+node server.js 
+node nodemon server.js 
+nodemon server.js 
+vim .config/i3/config
+xprop
+xprop
+nmap -T4 -A -p- riddle.nu
+nmap -sU -T4 riddle.nu
+sudo nmap -sU -T4 riddle.nu
+sudo nmap -A -p135,136,137,138,139 -sU -T4 riddle.nu
+nmap -p 443 --script=ssl-enum-ciphers
+nmap -p 443 --script=ssl-enum-ciphers riddle.nu
+ls /usr/share/nmap/scripts/

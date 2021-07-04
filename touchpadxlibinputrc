@@ -1,0 +1,5 @@
+[GDX1515:00 27C6:01F4 Touchpad]
+disableWhileTyping=false
+naturalScroll=true
+pointerAcceleration=0.4
+tapToClick=true
